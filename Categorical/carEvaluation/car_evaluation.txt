@@ -1,0 +1,1729 @@
+  buying    maint  doors persons lug_boot safety       class
+muy alto muy alto    dos     dos  pequeño   bajo inaceptable
+muy alto muy alto    dos     dos  pequeño  medio inaceptable
+muy alto muy alto    dos     dos  pequeño   alto inaceptable
+muy alto muy alto    dos     dos    medio   bajo inaceptable
+muy alto muy alto    dos     dos    medio  medio inaceptable
+muy alto muy alto    dos     dos    medio   alto inaceptable
+muy alto muy alto    dos     dos   grande   bajo inaceptable
+muy alto muy alto    dos     dos   grande  medio inaceptable
+muy alto muy alto    dos     dos   grande   alto inaceptable
+muy alto muy alto    dos  cuatro  pequeño   bajo inaceptable
+muy alto muy alto    dos  cuatro  pequeño  medio inaceptable
+muy alto muy alto    dos  cuatro  pequeño   alto inaceptable
+muy alto muy alto    dos  cuatro    medio   bajo inaceptable
+muy alto muy alto    dos  cuatro    medio  medio inaceptable
+muy alto muy alto    dos  cuatro    medio   alto inaceptable
+muy alto muy alto    dos  cuatro   grande   bajo inaceptable
+muy alto muy alto    dos  cuatro   grande  medio inaceptable
+muy alto muy alto    dos  cuatro   grande   alto inaceptable
+muy alto muy alto    dos     mas  pequeño   bajo inaceptable
+muy alto muy alto    dos     mas  pequeño  medio inaceptable
+muy alto muy alto    dos     mas  pequeño   alto inaceptable
+muy alto muy alto    dos     mas    medio   bajo inaceptable
+muy alto muy alto    dos     mas    medio  medio inaceptable
+muy alto muy alto    dos     mas    medio   alto inaceptable
+muy alto muy alto    dos     mas   grande   bajo inaceptable
+muy alto muy alto    dos     mas   grande  medio inaceptable
+muy alto muy alto    dos     mas   grande   alto inaceptable
+muy alto muy alto   tres     dos  pequeño   bajo inaceptable
+muy alto muy alto   tres     dos  pequeño  medio inaceptable
+muy alto muy alto   tres     dos  pequeño   alto inaceptable
+muy alto muy alto   tres     dos    medio   bajo inaceptable
+muy alto muy alto   tres     dos    medio  medio inaceptable
+muy alto muy alto   tres     dos    medio   alto inaceptable
+muy alto muy alto   tres     dos   grande   bajo inaceptable
+muy alto muy alto   tres     dos   grande  medio inaceptable
+muy alto muy alto   tres     dos   grande   alto inaceptable
+muy alto muy alto   tres  cuatro  pequeño   bajo inaceptable
+muy alto muy alto   tres  cuatro  pequeño  medio inaceptable
+muy alto muy alto   tres  cuatro  pequeño   alto inaceptable
+muy alto muy alto   tres  cuatro    medio   bajo inaceptable
+muy alto muy alto   tres  cuatro    medio  medio inaceptable
+muy alto muy alto   tres  cuatro    medio   alto inaceptable
+muy alto muy alto   tres  cuatro   grande   bajo inaceptable
+muy alto muy alto   tres  cuatro   grande  medio inaceptable
+muy alto muy alto   tres  cuatro   grande   alto inaceptable
+muy alto muy alto   tres     mas  pequeño   bajo inaceptable
+muy alto muy alto   tres     mas  pequeño  medio inaceptable
+muy alto muy alto   tres     mas  pequeño   alto inaceptable
+muy alto muy alto   tres     mas    medio   bajo inaceptable
+muy alto muy alto   tres     mas    medio  medio inaceptable
+muy alto muy alto   tres     mas    medio   alto inaceptable
+muy alto muy alto   tres     mas   grande   bajo inaceptable
+muy alto muy alto   tres     mas   grande  medio inaceptable
+muy alto muy alto   tres     mas   grande   alto inaceptable
+muy alto muy alto cuatro     dos  pequeño   bajo inaceptable
+muy alto muy alto cuatro     dos  pequeño  medio inaceptable
+muy alto muy alto cuatro     dos  pequeño   alto inaceptable
+muy alto muy alto cuatro     dos    medio   bajo inaceptable
+muy alto muy alto cuatro     dos    medio  medio inaceptable
+muy alto muy alto cuatro     dos    medio   alto inaceptable
+muy alto muy alto cuatro     dos   grande   bajo inaceptable
+muy alto muy alto cuatro     dos   grande  medio inaceptable
+muy alto muy alto cuatro     dos   grande   alto inaceptable
+muy alto muy alto cuatro  cuatro  pequeño   bajo inaceptable
+muy alto muy alto cuatro  cuatro  pequeño  medio inaceptable
+muy alto muy alto cuatro  cuatro  pequeño   alto inaceptable
+muy alto muy alto cuatro  cuatro    medio   bajo inaceptable
+muy alto muy alto cuatro  cuatro    medio  medio inaceptable
+muy alto muy alto cuatro  cuatro    medio   alto inaceptable
+muy alto muy alto cuatro  cuatro   grande   bajo inaceptable
+muy alto muy alto cuatro  cuatro   grande  medio inaceptable
+muy alto muy alto cuatro  cuatro   grande   alto inaceptable
+muy alto muy alto cuatro     mas  pequeño   bajo inaceptable
+muy alto muy alto cuatro     mas  pequeño  medio inaceptable
+muy alto muy alto cuatro     mas  pequeño   alto inaceptable
+muy alto muy alto cuatro     mas    medio   bajo inaceptable
+muy alto muy alto cuatro     mas    medio  medio inaceptable
+muy alto muy alto cuatro     mas    medio   alto inaceptable
+muy alto muy alto cuatro     mas   grande   bajo inaceptable
+muy alto muy alto cuatro     mas   grande  medio inaceptable
+muy alto muy alto cuatro     mas   grande   alto inaceptable
+muy alto muy alto    mas     dos  pequeño   bajo inaceptable
+muy alto muy alto    mas     dos  pequeño  medio inaceptable
+muy alto muy alto    mas     dos  pequeño   alto inaceptable
+muy alto muy alto    mas     dos    medio   bajo inaceptable
+muy alto muy alto    mas     dos    medio  medio inaceptable
+muy alto muy alto    mas     dos    medio   alto inaceptable
+muy alto muy alto    mas     dos   grande   bajo inaceptable
+muy alto muy alto    mas     dos   grande  medio inaceptable
+muy alto muy alto    mas     dos   grande   alto inaceptable
+muy alto muy alto    mas  cuatro  pequeño   bajo inaceptable
+muy alto muy alto    mas  cuatro  pequeño  medio inaceptable
+muy alto muy alto    mas  cuatro  pequeño   alto inaceptable
+muy alto muy alto    mas  cuatro    medio   bajo inaceptable
+muy alto muy alto    mas  cuatro    medio  medio inaceptable
+muy alto muy alto    mas  cuatro    medio   alto inaceptable
+muy alto muy alto    mas  cuatro   grande   bajo inaceptable
+muy alto muy alto    mas  cuatro   grande  medio inaceptable
+muy alto muy alto    mas  cuatro   grande   alto inaceptable
+muy alto muy alto    mas     mas  pequeño   bajo inaceptable
+muy alto muy alto    mas     mas  pequeño  medio inaceptable
+muy alto muy alto    mas     mas  pequeño   alto inaceptable
+muy alto muy alto    mas     mas    medio   bajo inaceptable
+muy alto muy alto    mas     mas    medio  medio inaceptable
+muy alto muy alto    mas     mas    medio   alto inaceptable
+muy alto muy alto    mas     mas   grande   bajo inaceptable
+muy alto muy alto    mas     mas   grande  medio inaceptable
+muy alto muy alto    mas     mas   grande   alto inaceptable
+muy alto     alto    dos     dos  pequeño   bajo inaceptable
+muy alto     alto    dos     dos  pequeño  medio inaceptable
+muy alto     alto    dos     dos  pequeño   alto inaceptable
+muy alto     alto    dos     dos    medio   bajo inaceptable
+muy alto     alto    dos     dos    medio  medio inaceptable
+muy alto     alto    dos     dos    medio   alto inaceptable
+muy alto     alto    dos     dos   grande   bajo inaceptable
+muy alto     alto    dos     dos   grande  medio inaceptable
+muy alto     alto    dos     dos   grande   alto inaceptable
+muy alto     alto    dos  cuatro  pequeño   bajo inaceptable
+muy alto     alto    dos  cuatro  pequeño  medio inaceptable
+muy alto     alto    dos  cuatro  pequeño   alto inaceptable
+muy alto     alto    dos  cuatro    medio   bajo inaceptable
+muy alto     alto    dos  cuatro    medio  medio inaceptable
+muy alto     alto    dos  cuatro    medio   alto inaceptable
+muy alto     alto    dos  cuatro   grande   bajo inaceptable
+muy alto     alto    dos  cuatro   grande  medio inaceptable
+muy alto     alto    dos  cuatro   grande   alto inaceptable
+muy alto     alto    dos     mas  pequeño   bajo inaceptable
+muy alto     alto    dos     mas  pequeño  medio inaceptable
+muy alto     alto    dos     mas  pequeño   alto inaceptable
+muy alto     alto    dos     mas    medio   bajo inaceptable
+muy alto     alto    dos     mas    medio  medio inaceptable
+muy alto     alto    dos     mas    medio   alto inaceptable
+muy alto     alto    dos     mas   grande   bajo inaceptable
+muy alto     alto    dos     mas   grande  medio inaceptable
+muy alto     alto    dos     mas   grande   alto inaceptable
+muy alto     alto   tres     dos  pequeño   bajo inaceptable
+muy alto     alto   tres     dos  pequeño  medio inaceptable
+muy alto     alto   tres     dos  pequeño   alto inaceptable
+muy alto     alto   tres     dos    medio   bajo inaceptable
+muy alto     alto   tres     dos    medio  medio inaceptable
+muy alto     alto   tres     dos    medio   alto inaceptable
+muy alto     alto   tres     dos   grande   bajo inaceptable
+muy alto     alto   tres     dos   grande  medio inaceptable
+muy alto     alto   tres     dos   grande   alto inaceptable
+muy alto     alto   tres  cuatro  pequeño   bajo inaceptable
+muy alto     alto   tres  cuatro  pequeño  medio inaceptable
+muy alto     alto   tres  cuatro  pequeño   alto inaceptable
+muy alto     alto   tres  cuatro    medio   bajo inaceptable
+muy alto     alto   tres  cuatro    medio  medio inaceptable
+muy alto     alto   tres  cuatro    medio   alto inaceptable
+muy alto     alto   tres  cuatro   grande   bajo inaceptable
+muy alto     alto   tres  cuatro   grande  medio inaceptable
+muy alto     alto   tres  cuatro   grande   alto inaceptable
+muy alto     alto   tres     mas  pequeño   bajo inaceptable
+muy alto     alto   tres     mas  pequeño  medio inaceptable
+muy alto     alto   tres     mas  pequeño   alto inaceptable
+muy alto     alto   tres     mas    medio   bajo inaceptable
+muy alto     alto   tres     mas    medio  medio inaceptable
+muy alto     alto   tres     mas    medio   alto inaceptable
+muy alto     alto   tres     mas   grande   bajo inaceptable
+muy alto     alto   tres     mas   grande  medio inaceptable
+muy alto     alto   tres     mas   grande   alto inaceptable
+muy alto     alto cuatro     dos  pequeño   bajo inaceptable
+muy alto     alto cuatro     dos  pequeño  medio inaceptable
+muy alto     alto cuatro     dos  pequeño   alto inaceptable
+muy alto     alto cuatro     dos    medio   bajo inaceptable
+muy alto     alto cuatro     dos    medio  medio inaceptable
+muy alto     alto cuatro     dos    medio   alto inaceptable
+muy alto     alto cuatro     dos   grande   bajo inaceptable
+muy alto     alto cuatro     dos   grande  medio inaceptable
+muy alto     alto cuatro     dos   grande   alto inaceptable
+muy alto     alto cuatro  cuatro  pequeño   bajo inaceptable
+muy alto     alto cuatro  cuatro  pequeño  medio inaceptable
+muy alto     alto cuatro  cuatro  pequeño   alto inaceptable
+muy alto     alto cuatro  cuatro    medio   bajo inaceptable
+muy alto     alto cuatro  cuatro    medio  medio inaceptable
+muy alto     alto cuatro  cuatro    medio   alto inaceptable
+muy alto     alto cuatro  cuatro   grande   bajo inaceptable
+muy alto     alto cuatro  cuatro   grande  medio inaceptable
+muy alto     alto cuatro  cuatro   grande   alto inaceptable
+muy alto     alto cuatro     mas  pequeño   bajo inaceptable
+muy alto     alto cuatro     mas  pequeño  medio inaceptable
+muy alto     alto cuatro     mas  pequeño   alto inaceptable
+muy alto     alto cuatro     mas    medio   bajo inaceptable
+muy alto     alto cuatro     mas    medio  medio inaceptable
+muy alto     alto cuatro     mas    medio   alto inaceptable
+muy alto     alto cuatro     mas   grande   bajo inaceptable
+muy alto     alto cuatro     mas   grande  medio inaceptable
+muy alto     alto cuatro     mas   grande   alto inaceptable
+muy alto     alto    mas     dos  pequeño   bajo inaceptable
+muy alto     alto    mas     dos  pequeño  medio inaceptable
+muy alto     alto    mas     dos  pequeño   alto inaceptable
+muy alto     alto    mas     dos    medio   bajo inaceptable
+muy alto     alto    mas     dos    medio  medio inaceptable
+muy alto     alto    mas     dos    medio   alto inaceptable
+muy alto     alto    mas     dos   grande   bajo inaceptable
+muy alto     alto    mas     dos   grande  medio inaceptable
+muy alto     alto    mas     dos   grande   alto inaceptable
+muy alto     alto    mas  cuatro  pequeño   bajo inaceptable
+muy alto     alto    mas  cuatro  pequeño  medio inaceptable
+muy alto     alto    mas  cuatro  pequeño   alto inaceptable
+muy alto     alto    mas  cuatro    medio   bajo inaceptable
+muy alto     alto    mas  cuatro    medio  medio inaceptable
+muy alto     alto    mas  cuatro    medio   alto inaceptable
+muy alto     alto    mas  cuatro   grande   bajo inaceptable
+muy alto     alto    mas  cuatro   grande  medio inaceptable
+muy alto     alto    mas  cuatro   grande   alto inaceptable
+muy alto     alto    mas     mas  pequeño   bajo inaceptable
+muy alto     alto    mas     mas  pequeño  medio inaceptable
+muy alto     alto    mas     mas  pequeño   alto inaceptable
+muy alto     alto    mas     mas    medio   bajo inaceptable
+muy alto     alto    mas     mas    medio  medio inaceptable
+muy alto     alto    mas     mas    medio   alto inaceptable
+muy alto     alto    mas     mas   grande   bajo inaceptable
+muy alto     alto    mas     mas   grande  medio inaceptable
+muy alto     alto    mas     mas   grande   alto inaceptable
+muy alto    medio    dos     dos  pequeño   bajo inaceptable
+muy alto    medio    dos     dos  pequeño  medio inaceptable
+muy alto    medio    dos     dos  pequeño   alto inaceptable
+muy alto    medio    dos     dos    medio   bajo inaceptable
+muy alto    medio    dos     dos    medio  medio inaceptable
+muy alto    medio    dos     dos    medio   alto inaceptable
+muy alto    medio    dos     dos   grande   bajo inaceptable
+muy alto    medio    dos     dos   grande  medio inaceptable
+muy alto    medio    dos     dos   grande   alto inaceptable
+muy alto    medio    dos  cuatro  pequeño   bajo inaceptable
+muy alto    medio    dos  cuatro  pequeño  medio inaceptable
+muy alto    medio    dos  cuatro  pequeño   alto   aceptable
+muy alto    medio    dos  cuatro    medio   bajo inaceptable
+muy alto    medio    dos  cuatro    medio  medio inaceptable
+muy alto    medio    dos  cuatro    medio   alto   aceptable
+muy alto    medio    dos  cuatro   grande   bajo inaceptable
+muy alto    medio    dos  cuatro   grande  medio   aceptable
+muy alto    medio    dos  cuatro   grande   alto   aceptable
+muy alto    medio    dos     mas  pequeño   bajo inaceptable
+muy alto    medio    dos     mas  pequeño  medio inaceptable
+muy alto    medio    dos     mas  pequeño   alto inaceptable
+muy alto    medio    dos     mas    medio   bajo inaceptable
+muy alto    medio    dos     mas    medio  medio inaceptable
+muy alto    medio    dos     mas    medio   alto   aceptable
+muy alto    medio    dos     mas   grande   bajo inaceptable
+muy alto    medio    dos     mas   grande  medio   aceptable
+muy alto    medio    dos     mas   grande   alto   aceptable
+muy alto    medio   tres     dos  pequeño   bajo inaceptable
+muy alto    medio   tres     dos  pequeño  medio inaceptable
+muy alto    medio   tres     dos  pequeño   alto inaceptable
+muy alto    medio   tres     dos    medio   bajo inaceptable
+muy alto    medio   tres     dos    medio  medio inaceptable
+muy alto    medio   tres     dos    medio   alto inaceptable
+muy alto    medio   tres     dos   grande   bajo inaceptable
+muy alto    medio   tres     dos   grande  medio inaceptable
+muy alto    medio   tres     dos   grande   alto inaceptable
+muy alto    medio   tres  cuatro  pequeño   bajo inaceptable
+muy alto    medio   tres  cuatro  pequeño  medio inaceptable
+muy alto    medio   tres  cuatro  pequeño   alto   aceptable
+muy alto    medio   tres  cuatro    medio   bajo inaceptable
+muy alto    medio   tres  cuatro    medio  medio inaceptable
+muy alto    medio   tres  cuatro    medio   alto   aceptable
+muy alto    medio   tres  cuatro   grande   bajo inaceptable
+muy alto    medio   tres  cuatro   grande  medio   aceptable
+muy alto    medio   tres  cuatro   grande   alto   aceptable
+muy alto    medio   tres     mas  pequeño   bajo inaceptable
+muy alto    medio   tres     mas  pequeño  medio inaceptable
+muy alto    medio   tres     mas  pequeño   alto   aceptable
+muy alto    medio   tres     mas    medio   bajo inaceptable
+muy alto    medio   tres     mas    medio  medio   aceptable
+muy alto    medio   tres     mas    medio   alto   aceptable
+muy alto    medio   tres     mas   grande   bajo inaceptable
+muy alto    medio   tres     mas   grande  medio   aceptable
+muy alto    medio   tres     mas   grande   alto   aceptable
+muy alto    medio cuatro     dos  pequeño   bajo inaceptable
+muy alto    medio cuatro     dos  pequeño  medio inaceptable
+muy alto    medio cuatro     dos  pequeño   alto inaceptable
+muy alto    medio cuatro     dos    medio   bajo inaceptable
+muy alto    medio cuatro     dos    medio  medio inaceptable
+muy alto    medio cuatro     dos    medio   alto inaceptable
+muy alto    medio cuatro     dos   grande   bajo inaceptable
+muy alto    medio cuatro     dos   grande  medio inaceptable
+muy alto    medio cuatro     dos   grande   alto inaceptable
+muy alto    medio cuatro  cuatro  pequeño   bajo inaceptable
+muy alto    medio cuatro  cuatro  pequeño  medio inaceptable
+muy alto    medio cuatro  cuatro  pequeño   alto   aceptable
+muy alto    medio cuatro  cuatro    medio   bajo inaceptable
+muy alto    medio cuatro  cuatro    medio  medio   aceptable
+muy alto    medio cuatro  cuatro    medio   alto   aceptable
+muy alto    medio cuatro  cuatro   grande   bajo inaceptable
+muy alto    medio cuatro  cuatro   grande  medio   aceptable
+muy alto    medio cuatro  cuatro   grande   alto   aceptable
+muy alto    medio cuatro     mas  pequeño   bajo inaceptable
+muy alto    medio cuatro     mas  pequeño  medio inaceptable
+muy alto    medio cuatro     mas  pequeño   alto   aceptable
+muy alto    medio cuatro     mas    medio   bajo inaceptable
+muy alto    medio cuatro     mas    medio  medio   aceptable
+muy alto    medio cuatro     mas    medio   alto   aceptable
+muy alto    medio cuatro     mas   grande   bajo inaceptable
+muy alto    medio cuatro     mas   grande  medio   aceptable
+muy alto    medio cuatro     mas   grande   alto   aceptable
+muy alto    medio    mas     dos  pequeño   bajo inaceptable
+muy alto    medio    mas     dos  pequeño  medio inaceptable
+muy alto    medio    mas     dos  pequeño   alto inaceptable
+muy alto    medio    mas     dos    medio   bajo inaceptable
+muy alto    medio    mas     dos    medio  medio inaceptable
+muy alto    medio    mas     dos    medio   alto inaceptable
+muy alto    medio    mas     dos   grande   bajo inaceptable
+muy alto    medio    mas     dos   grande  medio inaceptable
+muy alto    medio    mas     dos   grande   alto inaceptable
+muy alto    medio    mas  cuatro  pequeño   bajo inaceptable
+muy alto    medio    mas  cuatro  pequeño  medio inaceptable
+muy alto    medio    mas  cuatro  pequeño   alto   aceptable
+muy alto    medio    mas  cuatro    medio   bajo inaceptable
+muy alto    medio    mas  cuatro    medio  medio   aceptable
+muy alto    medio    mas  cuatro    medio   alto   aceptable
+muy alto    medio    mas  cuatro   grande   bajo inaceptable
+muy alto    medio    mas  cuatro   grande  medio   aceptable
+muy alto    medio    mas  cuatro   grande   alto   aceptable
+muy alto    medio    mas     mas  pequeño   bajo inaceptable
+muy alto    medio    mas     mas  pequeño  medio inaceptable
+muy alto    medio    mas     mas  pequeño   alto   aceptable
+muy alto    medio    mas     mas    medio   bajo inaceptable
+muy alto    medio    mas     mas    medio  medio   aceptable
+muy alto    medio    mas     mas    medio   alto   aceptable
+muy alto    medio    mas     mas   grande   bajo inaceptable
+muy alto    medio    mas     mas   grande  medio   aceptable
+muy alto    medio    mas     mas   grande   alto   aceptable
+muy alto     bajo    dos     dos  pequeño   bajo inaceptable
+muy alto     bajo    dos     dos  pequeño  medio inaceptable
+muy alto     bajo    dos     dos  pequeño   alto inaceptable
+muy alto     bajo    dos     dos    medio   bajo inaceptable
+muy alto     bajo    dos     dos    medio  medio inaceptable
+muy alto     bajo    dos     dos    medio   alto inaceptable
+muy alto     bajo    dos     dos   grande   bajo inaceptable
+muy alto     bajo    dos     dos   grande  medio inaceptable
+muy alto     bajo    dos     dos   grande   alto inaceptable
+muy alto     bajo    dos  cuatro  pequeño   bajo inaceptable
+muy alto     bajo    dos  cuatro  pequeño  medio inaceptable
+muy alto     bajo    dos  cuatro  pequeño   alto   aceptable
+muy alto     bajo    dos  cuatro    medio   bajo inaceptable
+muy alto     bajo    dos  cuatro    medio  medio inaceptable
+muy alto     bajo    dos  cuatro    medio   alto   aceptable
+muy alto     bajo    dos  cuatro   grande   bajo inaceptable
+muy alto     bajo    dos  cuatro   grande  medio   aceptable
+muy alto     bajo    dos  cuatro   grande   alto   aceptable
+muy alto     bajo    dos     mas  pequeño   bajo inaceptable
+muy alto     bajo    dos     mas  pequeño  medio inaceptable
+muy alto     bajo    dos     mas  pequeño   alto inaceptable
+muy alto     bajo    dos     mas    medio   bajo inaceptable
+muy alto     bajo    dos     mas    medio  medio inaceptable
+muy alto     bajo    dos     mas    medio   alto   aceptable
+muy alto     bajo    dos     mas   grande   bajo inaceptable
+muy alto     bajo    dos     mas   grande  medio   aceptable
+muy alto     bajo    dos     mas   grande   alto   aceptable
+muy alto     bajo   tres     dos  pequeño   bajo inaceptable
+muy alto     bajo   tres     dos  pequeño  medio inaceptable
+muy alto     bajo   tres     dos  pequeño   alto inaceptable
+muy alto     bajo   tres     dos    medio   bajo inaceptable
+muy alto     bajo   tres     dos    medio  medio inaceptable
+muy alto     bajo   tres     dos    medio   alto inaceptable
+muy alto     bajo   tres     dos   grande   bajo inaceptable
+muy alto     bajo   tres     dos   grande  medio inaceptable
+muy alto     bajo   tres     dos   grande   alto inaceptable
+muy alto     bajo   tres  cuatro  pequeño   bajo inaceptable
+muy alto     bajo   tres  cuatro  pequeño  medio inaceptable
+muy alto     bajo   tres  cuatro  pequeño   alto   aceptable
+muy alto     bajo   tres  cuatro    medio   bajo inaceptable
+muy alto     bajo   tres  cuatro    medio  medio inaceptable
+muy alto     bajo   tres  cuatro    medio   alto   aceptable
+muy alto     bajo   tres  cuatro   grande   bajo inaceptable
+muy alto     bajo   tres  cuatro   grande  medio   aceptable
+muy alto     bajo   tres  cuatro   grande   alto   aceptable
+muy alto     bajo   tres     mas  pequeño   bajo inaceptable
+muy alto     bajo   tres     mas  pequeño  medio inaceptable
+muy alto     bajo   tres     mas  pequeño   alto   aceptable
+muy alto     bajo   tres     mas    medio   bajo inaceptable
+muy alto     bajo   tres     mas    medio  medio   aceptable
+muy alto     bajo   tres     mas    medio   alto   aceptable
+muy alto     bajo   tres     mas   grande   bajo inaceptable
+muy alto     bajo   tres     mas   grande  medio   aceptable
+muy alto     bajo   tres     mas   grande   alto   aceptable
+muy alto     bajo cuatro     dos  pequeño   bajo inaceptable
+muy alto     bajo cuatro     dos  pequeño  medio inaceptable
+muy alto     bajo cuatro     dos  pequeño   alto inaceptable
+muy alto     bajo cuatro     dos    medio   bajo inaceptable
+muy alto     bajo cuatro     dos    medio  medio inaceptable
+muy alto     bajo cuatro     dos    medio   alto inaceptable
+muy alto     bajo cuatro     dos   grande   bajo inaceptable
+muy alto     bajo cuatro     dos   grande  medio inaceptable
+muy alto     bajo cuatro     dos   grande   alto inaceptable
+muy alto     bajo cuatro  cuatro  pequeño   bajo inaceptable
+muy alto     bajo cuatro  cuatro  pequeño  medio inaceptable
+muy alto     bajo cuatro  cuatro  pequeño   alto   aceptable
+muy alto     bajo cuatro  cuatro    medio   bajo inaceptable
+muy alto     bajo cuatro  cuatro    medio  medio   aceptable
+muy alto     bajo cuatro  cuatro    medio   alto   aceptable
+muy alto     bajo cuatro  cuatro   grande   bajo inaceptable
+muy alto     bajo cuatro  cuatro   grande  medio   aceptable
+muy alto     bajo cuatro  cuatro   grande   alto   aceptable
+muy alto     bajo cuatro     mas  pequeño   bajo inaceptable
+muy alto     bajo cuatro     mas  pequeño  medio inaceptable
+muy alto     bajo cuatro     mas  pequeño   alto   aceptable
+muy alto     bajo cuatro     mas    medio   bajo inaceptable
+muy alto     bajo cuatro     mas    medio  medio   aceptable
+muy alto     bajo cuatro     mas    medio   alto   aceptable
+muy alto     bajo cuatro     mas   grande   bajo inaceptable
+muy alto     bajo cuatro     mas   grande  medio   aceptable
+muy alto     bajo cuatro     mas   grande   alto   aceptable
+muy alto     bajo    mas     dos  pequeño   bajo inaceptable
+muy alto     bajo    mas     dos  pequeño  medio inaceptable
+muy alto     bajo    mas     dos  pequeño   alto inaceptable
+muy alto     bajo    mas     dos    medio   bajo inaceptable
+muy alto     bajo    mas     dos    medio  medio inaceptable
+muy alto     bajo    mas     dos    medio   alto inaceptable
+muy alto     bajo    mas     dos   grande   bajo inaceptable
+muy alto     bajo    mas     dos   grande  medio inaceptable
+muy alto     bajo    mas     dos   grande   alto inaceptable
+muy alto     bajo    mas  cuatro  pequeño   bajo inaceptable
+muy alto     bajo    mas  cuatro  pequeño  medio inaceptable
+muy alto     bajo    mas  cuatro  pequeño   alto   aceptable
+muy alto     bajo    mas  cuatro    medio   bajo inaceptable
+muy alto     bajo    mas  cuatro    medio  medio   aceptable
+muy alto     bajo    mas  cuatro    medio   alto   aceptable
+muy alto     bajo    mas  cuatro   grande   bajo inaceptable
+muy alto     bajo    mas  cuatro   grande  medio   aceptable
+muy alto     bajo    mas  cuatro   grande   alto   aceptable
+muy alto     bajo    mas     mas  pequeño   bajo inaceptable
+muy alto     bajo    mas     mas  pequeño  medio inaceptable
+muy alto     bajo    mas     mas  pequeño   alto   aceptable
+muy alto     bajo    mas     mas    medio   bajo inaceptable
+muy alto     bajo    mas     mas    medio  medio   aceptable
+muy alto     bajo    mas     mas    medio   alto   aceptable
+muy alto     bajo    mas     mas   grande   bajo inaceptable
+muy alto     bajo    mas     mas   grande  medio   aceptable
+muy alto     bajo    mas     mas   grande   alto   aceptable
+    alto muy alto    dos     dos  pequeño   bajo inaceptable
+    alto muy alto    dos     dos  pequeño  medio inaceptable
+    alto muy alto    dos     dos  pequeño   alto inaceptable
+    alto muy alto    dos     dos    medio   bajo inaceptable
+    alto muy alto    dos     dos    medio  medio inaceptable
+    alto muy alto    dos     dos    medio   alto inaceptable
+    alto muy alto    dos     dos   grande   bajo inaceptable
+    alto muy alto    dos     dos   grande  medio inaceptable
+    alto muy alto    dos     dos   grande   alto inaceptable
+    alto muy alto    dos  cuatro  pequeño   bajo inaceptable
+    alto muy alto    dos  cuatro  pequeño  medio inaceptable
+    alto muy alto    dos  cuatro  pequeño   alto inaceptable
+    alto muy alto    dos  cuatro    medio   bajo inaceptable
+    alto muy alto    dos  cuatro    medio  medio inaceptable
+    alto muy alto    dos  cuatro    medio   alto inaceptable
+    alto muy alto    dos  cuatro   grande   bajo inaceptable
+    alto muy alto    dos  cuatro   grande  medio inaceptable
+    alto muy alto    dos  cuatro   grande   alto inaceptable
+    alto muy alto    dos     mas  pequeño   bajo inaceptable
+    alto muy alto    dos     mas  pequeño  medio inaceptable
+    alto muy alto    dos     mas  pequeño   alto inaceptable
+    alto muy alto    dos     mas    medio   bajo inaceptable
+    alto muy alto    dos     mas    medio  medio inaceptable
+    alto muy alto    dos     mas    medio   alto inaceptable
+    alto muy alto    dos     mas   grande   bajo inaceptable
+    alto muy alto    dos     mas   grande  medio inaceptable
+    alto muy alto    dos     mas   grande   alto inaceptable
+    alto muy alto   tres     dos  pequeño   bajo inaceptable
+    alto muy alto   tres     dos  pequeño  medio inaceptable
+    alto muy alto   tres     dos  pequeño   alto inaceptable
+    alto muy alto   tres     dos    medio   bajo inaceptable
+    alto muy alto   tres     dos    medio  medio inaceptable
+    alto muy alto   tres     dos    medio   alto inaceptable
+    alto muy alto   tres     dos   grande   bajo inaceptable
+    alto muy alto   tres     dos   grande  medio inaceptable
+    alto muy alto   tres     dos   grande   alto inaceptable
+    alto muy alto   tres  cuatro  pequeño   bajo inaceptable
+    alto muy alto   tres  cuatro  pequeño  medio inaceptable
+    alto muy alto   tres  cuatro  pequeño   alto inaceptable
+    alto muy alto   tres  cuatro    medio   bajo inaceptable
+    alto muy alto   tres  cuatro    medio  medio inaceptable
+    alto muy alto   tres  cuatro    medio   alto inaceptable
+    alto muy alto   tres  cuatro   grande   bajo inaceptable
+    alto muy alto   tres  cuatro   grande  medio inaceptable
+    alto muy alto   tres  cuatro   grande   alto inaceptable
+    alto muy alto   tres     mas  pequeño   bajo inaceptable
+    alto muy alto   tres     mas  pequeño  medio inaceptable
+    alto muy alto   tres     mas  pequeño   alto inaceptable
+    alto muy alto   tres     mas    medio   bajo inaceptable
+    alto muy alto   tres     mas    medio  medio inaceptable
+    alto muy alto   tres     mas    medio   alto inaceptable
+    alto muy alto   tres     mas   grande   bajo inaceptable
+    alto muy alto   tres     mas   grande  medio inaceptable
+    alto muy alto   tres     mas   grande   alto inaceptable
+    alto muy alto cuatro     dos  pequeño   bajo inaceptable
+    alto muy alto cuatro     dos  pequeño  medio inaceptable
+    alto muy alto cuatro     dos  pequeño   alto inaceptable
+    alto muy alto cuatro     dos    medio   bajo inaceptable
+    alto muy alto cuatro     dos    medio  medio inaceptable
+    alto muy alto cuatro     dos    medio   alto inaceptable
+    alto muy alto cuatro     dos   grande   bajo inaceptable
+    alto muy alto cuatro     dos   grande  medio inaceptable
+    alto muy alto cuatro     dos   grande   alto inaceptable
+    alto muy alto cuatro  cuatro  pequeño   bajo inaceptable
+    alto muy alto cuatro  cuatro  pequeño  medio inaceptable
+    alto muy alto cuatro  cuatro  pequeño   alto inaceptable
+    alto muy alto cuatro  cuatro    medio   bajo inaceptable
+    alto muy alto cuatro  cuatro    medio  medio inaceptable
+    alto muy alto cuatro  cuatro    medio   alto inaceptable
+    alto muy alto cuatro  cuatro   grande   bajo inaceptable
+    alto muy alto cuatro  cuatro   grande  medio inaceptable
+    alto muy alto cuatro  cuatro   grande   alto inaceptable
+    alto muy alto cuatro     mas  pequeño   bajo inaceptable
+    alto muy alto cuatro     mas  pequeño  medio inaceptable
+    alto muy alto cuatro     mas  pequeño   alto inaceptable
+    alto muy alto cuatro     mas    medio   bajo inaceptable
+    alto muy alto cuatro     mas    medio  medio inaceptable
+    alto muy alto cuatro     mas    medio   alto inaceptable
+    alto muy alto cuatro     mas   grande   bajo inaceptable
+    alto muy alto cuatro     mas   grande  medio inaceptable
+    alto muy alto cuatro     mas   grande   alto inaceptable
+    alto muy alto    mas     dos  pequeño   bajo inaceptable
+    alto muy alto    mas     dos  pequeño  medio inaceptable
+    alto muy alto    mas     dos  pequeño   alto inaceptable
+    alto muy alto    mas     dos    medio   bajo inaceptable
+    alto muy alto    mas     dos    medio  medio inaceptable
+    alto muy alto    mas     dos    medio   alto inaceptable
+    alto muy alto    mas     dos   grande   bajo inaceptable
+    alto muy alto    mas     dos   grande  medio inaceptable
+    alto muy alto    mas     dos   grande   alto inaceptable
+    alto muy alto    mas  cuatro  pequeño   bajo inaceptable
+    alto muy alto    mas  cuatro  pequeño  medio inaceptable
+    alto muy alto    mas  cuatro  pequeño   alto inaceptable
+    alto muy alto    mas  cuatro    medio   bajo inaceptable
+    alto muy alto    mas  cuatro    medio  medio inaceptable
+    alto muy alto    mas  cuatro    medio   alto inaceptable
+    alto muy alto    mas  cuatro   grande   bajo inaceptable
+    alto muy alto    mas  cuatro   grande  medio inaceptable
+    alto muy alto    mas  cuatro   grande   alto inaceptable
+    alto muy alto    mas     mas  pequeño   bajo inaceptable
+    alto muy alto    mas     mas  pequeño  medio inaceptable
+    alto muy alto    mas     mas  pequeño   alto inaceptable
+    alto muy alto    mas     mas    medio   bajo inaceptable
+    alto muy alto    mas     mas    medio  medio inaceptable
+    alto muy alto    mas     mas    medio   alto inaceptable
+    alto muy alto    mas     mas   grande   bajo inaceptable
+    alto muy alto    mas     mas   grande  medio inaceptable
+    alto muy alto    mas     mas   grande   alto inaceptable
+    alto     alto    dos     dos  pequeño   bajo inaceptable
+    alto     alto    dos     dos  pequeño  medio inaceptable
+    alto     alto    dos     dos  pequeño   alto inaceptable
+    alto     alto    dos     dos    medio   bajo inaceptable
+    alto     alto    dos     dos    medio  medio inaceptable
+    alto     alto    dos     dos    medio   alto inaceptable
+    alto     alto    dos     dos   grande   bajo inaceptable
+    alto     alto    dos     dos   grande  medio inaceptable
+    alto     alto    dos     dos   grande   alto inaceptable
+    alto     alto    dos  cuatro  pequeño   bajo inaceptable
+    alto     alto    dos  cuatro  pequeño  medio inaceptable
+    alto     alto    dos  cuatro  pequeño   alto   aceptable
+    alto     alto    dos  cuatro    medio   bajo inaceptable
+    alto     alto    dos  cuatro    medio  medio inaceptable
+    alto     alto    dos  cuatro    medio   alto   aceptable
+    alto     alto    dos  cuatro   grande   bajo inaceptable
+    alto     alto    dos  cuatro   grande  medio   aceptable
+    alto     alto    dos  cuatro   grande   alto   aceptable
+    alto     alto    dos     mas  pequeño   bajo inaceptable
+    alto     alto    dos     mas  pequeño  medio inaceptable
+    alto     alto    dos     mas  pequeño   alto inaceptable
+    alto     alto    dos     mas    medio   bajo inaceptable
+    alto     alto    dos     mas    medio  medio inaceptable
+    alto     alto    dos     mas    medio   alto   aceptable
+    alto     alto    dos     mas   grande   bajo inaceptable
+    alto     alto    dos     mas   grande  medio   aceptable
+    alto     alto    dos     mas   grande   alto   aceptable
+    alto     alto   tres     dos  pequeño   bajo inaceptable
+    alto     alto   tres     dos  pequeño  medio inaceptable
+    alto     alto   tres     dos  pequeño   alto inaceptable
+    alto     alto   tres     dos    medio   bajo inaceptable
+    alto     alto   tres     dos    medio  medio inaceptable
+    alto     alto   tres     dos    medio   alto inaceptable
+    alto     alto   tres     dos   grande   bajo inaceptable
+    alto     alto   tres     dos   grande  medio inaceptable
+    alto     alto   tres     dos   grande   alto inaceptable
+    alto     alto   tres  cuatro  pequeño   bajo inaceptable
+    alto     alto   tres  cuatro  pequeño  medio inaceptable
+    alto     alto   tres  cuatro  pequeño   alto   aceptable
+    alto     alto   tres  cuatro    medio   bajo inaceptable
+    alto     alto   tres  cuatro    medio  medio inaceptable
+    alto     alto   tres  cuatro    medio   alto   aceptable
+    alto     alto   tres  cuatro   grande   bajo inaceptable
+    alto     alto   tres  cuatro   grande  medio   aceptable
+    alto     alto   tres  cuatro   grande   alto   aceptable
+    alto     alto   tres     mas  pequeño   bajo inaceptable
+    alto     alto   tres     mas  pequeño  medio inaceptable
+    alto     alto   tres     mas  pequeño   alto   aceptable
+    alto     alto   tres     mas    medio   bajo inaceptable
+    alto     alto   tres     mas    medio  medio   aceptable
+    alto     alto   tres     mas    medio   alto   aceptable
+    alto     alto   tres     mas   grande   bajo inaceptable
+    alto     alto   tres     mas   grande  medio   aceptable
+    alto     alto   tres     mas   grande   alto   aceptable
+    alto     alto cuatro     dos  pequeño   bajo inaceptable
+    alto     alto cuatro     dos  pequeño  medio inaceptable
+    alto     alto cuatro     dos  pequeño   alto inaceptable
+    alto     alto cuatro     dos    medio   bajo inaceptable
+    alto     alto cuatro     dos    medio  medio inaceptable
+    alto     alto cuatro     dos    medio   alto inaceptable
+    alto     alto cuatro     dos   grande   bajo inaceptable
+    alto     alto cuatro     dos   grande  medio inaceptable
+    alto     alto cuatro     dos   grande   alto inaceptable
+    alto     alto cuatro  cuatro  pequeño   bajo inaceptable
+    alto     alto cuatro  cuatro  pequeño  medio inaceptable
+    alto     alto cuatro  cuatro  pequeño   alto   aceptable
+    alto     alto cuatro  cuatro    medio   bajo inaceptable
+    alto     alto cuatro  cuatro    medio  medio   aceptable
+    alto     alto cuatro  cuatro    medio   alto   aceptable
+    alto     alto cuatro  cuatro   grande   bajo inaceptable
+    alto     alto cuatro  cuatro   grande  medio   aceptable
+    alto     alto cuatro  cuatro   grande   alto   aceptable
+    alto     alto cuatro     mas  pequeño   bajo inaceptable
+    alto     alto cuatro     mas  pequeño  medio inaceptable
+    alto     alto cuatro     mas  pequeño   alto   aceptable
+    alto     alto cuatro     mas    medio   bajo inaceptable
+    alto     alto cuatro     mas    medio  medio   aceptable
+    alto     alto cuatro     mas    medio   alto   aceptable
+    alto     alto cuatro     mas   grande   bajo inaceptable
+    alto     alto cuatro     mas   grande  medio   aceptable
+    alto     alto cuatro     mas   grande   alto   aceptable
+    alto     alto    mas     dos  pequeño   bajo inaceptable
+    alto     alto    mas     dos  pequeño  medio inaceptable
+    alto     alto    mas     dos  pequeño   alto inaceptable
+    alto     alto    mas     dos    medio   bajo inaceptable
+    alto     alto    mas     dos    medio  medio inaceptable
+    alto     alto    mas     dos    medio   alto inaceptable
+    alto     alto    mas     dos   grande   bajo inaceptable
+    alto     alto    mas     dos   grande  medio inaceptable
+    alto     alto    mas     dos   grande   alto inaceptable
+    alto     alto    mas  cuatro  pequeño   bajo inaceptable
+    alto     alto    mas  cuatro  pequeño  medio inaceptable
+    alto     alto    mas  cuatro  pequeño   alto   aceptable
+    alto     alto    mas  cuatro    medio   bajo inaceptable
+    alto     alto    mas  cuatro    medio  medio   aceptable
+    alto     alto    mas  cuatro    medio   alto   aceptable
+    alto     alto    mas  cuatro   grande   bajo inaceptable
+    alto     alto    mas  cuatro   grande  medio   aceptable
+    alto     alto    mas  cuatro   grande   alto   aceptable
+    alto     alto    mas     mas  pequeño   bajo inaceptable
+    alto     alto    mas     mas  pequeño  medio inaceptable
+    alto     alto    mas     mas  pequeño   alto   aceptable
+    alto     alto    mas     mas    medio   bajo inaceptable
+    alto     alto    mas     mas    medio  medio   aceptable
+    alto     alto    mas     mas    medio   alto   aceptable
+    alto     alto    mas     mas   grande   bajo inaceptable
+    alto     alto    mas     mas   grande  medio   aceptable
+    alto     alto    mas     mas   grande   alto   aceptable
+    alto    medio    dos     dos  pequeño   bajo inaceptable
+    alto    medio    dos     dos  pequeño  medio inaceptable
+    alto    medio    dos     dos  pequeño   alto inaceptable
+    alto    medio    dos     dos    medio   bajo inaceptable
+    alto    medio    dos     dos    medio  medio inaceptable
+    alto    medio    dos     dos    medio   alto inaceptable
+    alto    medio    dos     dos   grande   bajo inaceptable
+    alto    medio    dos     dos   grande  medio inaceptable
+    alto    medio    dos     dos   grande   alto inaceptable
+    alto    medio    dos  cuatro  pequeño   bajo inaceptable
+    alto    medio    dos  cuatro  pequeño  medio inaceptable
+    alto    medio    dos  cuatro  pequeño   alto   aceptable
+    alto    medio    dos  cuatro    medio   bajo inaceptable
+    alto    medio    dos  cuatro    medio  medio inaceptable
+    alto    medio    dos  cuatro    medio   alto   aceptable
+    alto    medio    dos  cuatro   grande   bajo inaceptable
+    alto    medio    dos  cuatro   grande  medio   aceptable
+    alto    medio    dos  cuatro   grande   alto   aceptable
+    alto    medio    dos     mas  pequeño   bajo inaceptable
+    alto    medio    dos     mas  pequeño  medio inaceptable
+    alto    medio    dos     mas  pequeño   alto inaceptable
+    alto    medio    dos     mas    medio   bajo inaceptable
+    alto    medio    dos     mas    medio  medio inaceptable
+    alto    medio    dos     mas    medio   alto   aceptable
+    alto    medio    dos     mas   grande   bajo inaceptable
+    alto    medio    dos     mas   grande  medio   aceptable
+    alto    medio    dos     mas   grande   alto   aceptable
+    alto    medio   tres     dos  pequeño   bajo inaceptable
+    alto    medio   tres     dos  pequeño  medio inaceptable
+    alto    medio   tres     dos  pequeño   alto inaceptable
+    alto    medio   tres     dos    medio   bajo inaceptable
+    alto    medio   tres     dos    medio  medio inaceptable
+    alto    medio   tres     dos    medio   alto inaceptable
+    alto    medio   tres     dos   grande   bajo inaceptable
+    alto    medio   tres     dos   grande  medio inaceptable
+    alto    medio   tres     dos   grande   alto inaceptable
+    alto    medio   tres  cuatro  pequeño   bajo inaceptable
+    alto    medio   tres  cuatro  pequeño  medio inaceptable
+    alto    medio   tres  cuatro  pequeño   alto   aceptable
+    alto    medio   tres  cuatro    medio   bajo inaceptable
+    alto    medio   tres  cuatro    medio  medio inaceptable
+    alto    medio   tres  cuatro    medio   alto   aceptable
+    alto    medio   tres  cuatro   grande   bajo inaceptable
+    alto    medio   tres  cuatro   grande  medio   aceptable
+    alto    medio   tres  cuatro   grande   alto   aceptable
+    alto    medio   tres     mas  pequeño   bajo inaceptable
+    alto    medio   tres     mas  pequeño  medio inaceptable
+    alto    medio   tres     mas  pequeño   alto   aceptable
+    alto    medio   tres     mas    medio   bajo inaceptable
+    alto    medio   tres     mas    medio  medio   aceptable
+    alto    medio   tres     mas    medio   alto   aceptable
+    alto    medio   tres     mas   grande   bajo inaceptable
+    alto    medio   tres     mas   grande  medio   aceptable
+    alto    medio   tres     mas   grande   alto   aceptable
+    alto    medio cuatro     dos  pequeño   bajo inaceptable
+    alto    medio cuatro     dos  pequeño  medio inaceptable
+    alto    medio cuatro     dos  pequeño   alto inaceptable
+    alto    medio cuatro     dos    medio   bajo inaceptable
+    alto    medio cuatro     dos    medio  medio inaceptable
+    alto    medio cuatro     dos    medio   alto inaceptable
+    alto    medio cuatro     dos   grande   bajo inaceptable
+    alto    medio cuatro     dos   grande  medio inaceptable
+    alto    medio cuatro     dos   grande   alto inaceptable
+    alto    medio cuatro  cuatro  pequeño   bajo inaceptable
+    alto    medio cuatro  cuatro  pequeño  medio inaceptable
+    alto    medio cuatro  cuatro  pequeño   alto   aceptable
+    alto    medio cuatro  cuatro    medio   bajo inaceptable
+    alto    medio cuatro  cuatro    medio  medio   aceptable
+    alto    medio cuatro  cuatro    medio   alto   aceptable
+    alto    medio cuatro  cuatro   grande   bajo inaceptable
+    alto    medio cuatro  cuatro   grande  medio   aceptable
+    alto    medio cuatro  cuatro   grande   alto   aceptable
+    alto    medio cuatro     mas  pequeño   bajo inaceptable
+    alto    medio cuatro     mas  pequeño  medio inaceptable
+    alto    medio cuatro     mas  pequeño   alto   aceptable
+    alto    medio cuatro     mas    medio   bajo inaceptable
+    alto    medio cuatro     mas    medio  medio   aceptable
+    alto    medio cuatro     mas    medio   alto   aceptable
+    alto    medio cuatro     mas   grande   bajo inaceptable
+    alto    medio cuatro     mas   grande  medio   aceptable
+    alto    medio cuatro     mas   grande   alto   aceptable
+    alto    medio    mas     dos  pequeño   bajo inaceptable
+    alto    medio    mas     dos  pequeño  medio inaceptable
+    alto    medio    mas     dos  pequeño   alto inaceptable
+    alto    medio    mas     dos    medio   bajo inaceptable
+    alto    medio    mas     dos    medio  medio inaceptable
+    alto    medio    mas     dos    medio   alto inaceptable
+    alto    medio    mas     dos   grande   bajo inaceptable
+    alto    medio    mas     dos   grande  medio inaceptable
+    alto    medio    mas     dos   grande   alto inaceptable
+    alto    medio    mas  cuatro  pequeño   bajo inaceptable
+    alto    medio    mas  cuatro  pequeño  medio inaceptable
+    alto    medio    mas  cuatro  pequeño   alto   aceptable
+    alto    medio    mas  cuatro    medio   bajo inaceptable
+    alto    medio    mas  cuatro    medio  medio   aceptable
+    alto    medio    mas  cuatro    medio   alto   aceptable
+    alto    medio    mas  cuatro   grande   bajo inaceptable
+    alto    medio    mas  cuatro   grande  medio   aceptable
+    alto    medio    mas  cuatro   grande   alto   aceptable
+    alto    medio    mas     mas  pequeño   bajo inaceptable
+    alto    medio    mas     mas  pequeño  medio inaceptable
+    alto    medio    mas     mas  pequeño   alto   aceptable
+    alto    medio    mas     mas    medio   bajo inaceptable
+    alto    medio    mas     mas    medio  medio   aceptable
+    alto    medio    mas     mas    medio   alto   aceptable
+    alto    medio    mas     mas   grande   bajo inaceptable
+    alto    medio    mas     mas   grande  medio   aceptable
+    alto    medio    mas     mas   grande   alto   aceptable
+    alto     bajo    dos     dos  pequeño   bajo inaceptable
+    alto     bajo    dos     dos  pequeño  medio inaceptable
+    alto     bajo    dos     dos  pequeño   alto inaceptable
+    alto     bajo    dos     dos    medio   bajo inaceptable
+    alto     bajo    dos     dos    medio  medio inaceptable
+    alto     bajo    dos     dos    medio   alto inaceptable
+    alto     bajo    dos     dos   grande   bajo inaceptable
+    alto     bajo    dos     dos   grande  medio inaceptable
+    alto     bajo    dos     dos   grande   alto inaceptable
+    alto     bajo    dos  cuatro  pequeño   bajo inaceptable
+    alto     bajo    dos  cuatro  pequeño  medio inaceptable
+    alto     bajo    dos  cuatro  pequeño   alto   aceptable
+    alto     bajo    dos  cuatro    medio   bajo inaceptable
+    alto     bajo    dos  cuatro    medio  medio inaceptable
+    alto     bajo    dos  cuatro    medio   alto   aceptable
+    alto     bajo    dos  cuatro   grande   bajo inaceptable
+    alto     bajo    dos  cuatro   grande  medio   aceptable
+    alto     bajo    dos  cuatro   grande   alto   aceptable
+    alto     bajo    dos     mas  pequeño   bajo inaceptable
+    alto     bajo    dos     mas  pequeño  medio inaceptable
+    alto     bajo    dos     mas  pequeño   alto inaceptable
+    alto     bajo    dos     mas    medio   bajo inaceptable
+    alto     bajo    dos     mas    medio  medio inaceptable
+    alto     bajo    dos     mas    medio   alto   aceptable
+    alto     bajo    dos     mas   grande   bajo inaceptable
+    alto     bajo    dos     mas   grande  medio   aceptable
+    alto     bajo    dos     mas   grande   alto   aceptable
+    alto     bajo   tres     dos  pequeño   bajo inaceptable
+    alto     bajo   tres     dos  pequeño  medio inaceptable
+    alto     bajo   tres     dos  pequeño   alto inaceptable
+    alto     bajo   tres     dos    medio   bajo inaceptable
+    alto     bajo   tres     dos    medio  medio inaceptable
+    alto     bajo   tres     dos    medio   alto inaceptable
+    alto     bajo   tres     dos   grande   bajo inaceptable
+    alto     bajo   tres     dos   grande  medio inaceptable
+    alto     bajo   tres     dos   grande   alto inaceptable
+    alto     bajo   tres  cuatro  pequeño   bajo inaceptable
+    alto     bajo   tres  cuatro  pequeño  medio inaceptable
+    alto     bajo   tres  cuatro  pequeño   alto   aceptable
+    alto     bajo   tres  cuatro    medio   bajo inaceptable
+    alto     bajo   tres  cuatro    medio  medio inaceptable
+    alto     bajo   tres  cuatro    medio   alto   aceptable
+    alto     bajo   tres  cuatro   grande   bajo inaceptable
+    alto     bajo   tres  cuatro   grande  medio   aceptable
+    alto     bajo   tres  cuatro   grande   alto   aceptable
+    alto     bajo   tres     mas  pequeño   bajo inaceptable
+    alto     bajo   tres     mas  pequeño  medio inaceptable
+    alto     bajo   tres     mas  pequeño   alto   aceptable
+    alto     bajo   tres     mas    medio   bajo inaceptable
+    alto     bajo   tres     mas    medio  medio   aceptable
+    alto     bajo   tres     mas    medio   alto   aceptable
+    alto     bajo   tres     mas   grande   bajo inaceptable
+    alto     bajo   tres     mas   grande  medio   aceptable
+    alto     bajo   tres     mas   grande   alto   aceptable
+    alto     bajo cuatro     dos  pequeño   bajo inaceptable
+    alto     bajo cuatro     dos  pequeño  medio inaceptable
+    alto     bajo cuatro     dos  pequeño   alto inaceptable
+    alto     bajo cuatro     dos    medio   bajo inaceptable
+    alto     bajo cuatro     dos    medio  medio inaceptable
+    alto     bajo cuatro     dos    medio   alto inaceptable
+    alto     bajo cuatro     dos   grande   bajo inaceptable
+    alto     bajo cuatro     dos   grande  medio inaceptable
+    alto     bajo cuatro     dos   grande   alto inaceptable
+    alto     bajo cuatro  cuatro  pequeño   bajo inaceptable
+    alto     bajo cuatro  cuatro  pequeño  medio inaceptable
+    alto     bajo cuatro  cuatro  pequeño   alto   aceptable
+    alto     bajo cuatro  cuatro    medio   bajo inaceptable
+    alto     bajo cuatro  cuatro    medio  medio   aceptable
+    alto     bajo cuatro  cuatro    medio   alto   aceptable
+    alto     bajo cuatro  cuatro   grande   bajo inaceptable
+    alto     bajo cuatro  cuatro   grande  medio   aceptable
+    alto     bajo cuatro  cuatro   grande   alto   aceptable
+    alto     bajo cuatro     mas  pequeño   bajo inaceptable
+    alto     bajo cuatro     mas  pequeño  medio inaceptable
+    alto     bajo cuatro     mas  pequeño   alto   aceptable
+    alto     bajo cuatro     mas    medio   bajo inaceptable
+    alto     bajo cuatro     mas    medio  medio   aceptable
+    alto     bajo cuatro     mas    medio   alto   aceptable
+    alto     bajo cuatro     mas   grande   bajo inaceptable
+    alto     bajo cuatro     mas   grande  medio   aceptable
+    alto     bajo cuatro     mas   grande   alto   aceptable
+    alto     bajo    mas     dos  pequeño   bajo inaceptable
+    alto     bajo    mas     dos  pequeño  medio inaceptable
+    alto     bajo    mas     dos  pequeño   alto inaceptable
+    alto     bajo    mas     dos    medio   bajo inaceptable
+    alto     bajo    mas     dos    medio  medio inaceptable
+    alto     bajo    mas     dos    medio   alto inaceptable
+    alto     bajo    mas     dos   grande   bajo inaceptable
+    alto     bajo    mas     dos   grande  medio inaceptable
+    alto     bajo    mas     dos   grande   alto inaceptable
+    alto     bajo    mas  cuatro  pequeño   bajo inaceptable
+    alto     bajo    mas  cuatro  pequeño  medio inaceptable
+    alto     bajo    mas  cuatro  pequeño   alto   aceptable
+    alto     bajo    mas  cuatro    medio   bajo inaceptable
+    alto     bajo    mas  cuatro    medio  medio   aceptable
+    alto     bajo    mas  cuatro    medio   alto   aceptable
+    alto     bajo    mas  cuatro   grande   bajo inaceptable
+    alto     bajo    mas  cuatro   grande  medio   aceptable
+    alto     bajo    mas  cuatro   grande   alto   aceptable
+    alto     bajo    mas     mas  pequeño   bajo inaceptable
+    alto     bajo    mas     mas  pequeño  medio inaceptable
+    alto     bajo    mas     mas  pequeño   alto   aceptable
+    alto     bajo    mas     mas    medio   bajo inaceptable
+    alto     bajo    mas     mas    medio  medio   aceptable
+    alto     bajo    mas     mas    medio   alto   aceptable
+    alto     bajo    mas     mas   grande   bajo inaceptable
+    alto     bajo    mas     mas   grande  medio   aceptable
+    alto     bajo    mas     mas   grande   alto   aceptable
+   medio muy alto    dos     dos  pequeño   bajo inaceptable
+   medio muy alto    dos     dos  pequeño  medio inaceptable
+   medio muy alto    dos     dos  pequeño   alto inaceptable
+   medio muy alto    dos     dos    medio   bajo inaceptable
+   medio muy alto    dos     dos    medio  medio inaceptable
+   medio muy alto    dos     dos    medio   alto inaceptable
+   medio muy alto    dos     dos   grande   bajo inaceptable
+   medio muy alto    dos     dos   grande  medio inaceptable
+   medio muy alto    dos     dos   grande   alto inaceptable
+   medio muy alto    dos  cuatro  pequeño   bajo inaceptable
+   medio muy alto    dos  cuatro  pequeño  medio inaceptable
+   medio muy alto    dos  cuatro  pequeño   alto   aceptable
+   medio muy alto    dos  cuatro    medio   bajo inaceptable
+   medio muy alto    dos  cuatro    medio  medio inaceptable
+   medio muy alto    dos  cuatro    medio   alto   aceptable
+   medio muy alto    dos  cuatro   grande   bajo inaceptable
+   medio muy alto    dos  cuatro   grande  medio   aceptable
+   medio muy alto    dos  cuatro   grande   alto   aceptable
+   medio muy alto    dos     mas  pequeño   bajo inaceptable
+   medio muy alto    dos     mas  pequeño  medio inaceptable
+   medio muy alto    dos     mas  pequeño   alto inaceptable
+   medio muy alto    dos     mas    medio   bajo inaceptable
+   medio muy alto    dos     mas    medio  medio inaceptable
+   medio muy alto    dos     mas    medio   alto   aceptable
+   medio muy alto    dos     mas   grande   bajo inaceptable
+   medio muy alto    dos     mas   grande  medio   aceptable
+   medio muy alto    dos     mas   grande   alto   aceptable
+   medio muy alto   tres     dos  pequeño   bajo inaceptable
+   medio muy alto   tres     dos  pequeño  medio inaceptable
+   medio muy alto   tres     dos  pequeño   alto inaceptable
+   medio muy alto   tres     dos    medio   bajo inaceptable
+   medio muy alto   tres     dos    medio  medio inaceptable
+   medio muy alto   tres     dos    medio   alto inaceptable
+   medio muy alto   tres     dos   grande   bajo inaceptable
+   medio muy alto   tres     dos   grande  medio inaceptable
+   medio muy alto   tres     dos   grande   alto inaceptable
+   medio muy alto   tres  cuatro  pequeño   bajo inaceptable
+   medio muy alto   tres  cuatro  pequeño  medio inaceptable
+   medio muy alto   tres  cuatro  pequeño   alto   aceptable
+   medio muy alto   tres  cuatro    medio   bajo inaceptable
+   medio muy alto   tres  cuatro    medio  medio inaceptable
+   medio muy alto   tres  cuatro    medio   alto   aceptable
+   medio muy alto   tres  cuatro   grande   bajo inaceptable
+   medio muy alto   tres  cuatro   grande  medio   aceptable
+   medio muy alto   tres  cuatro   grande   alto   aceptable
+   medio muy alto   tres     mas  pequeño   bajo inaceptable
+   medio muy alto   tres     mas  pequeño  medio inaceptable
+   medio muy alto   tres     mas  pequeño   alto   aceptable
+   medio muy alto   tres     mas    medio   bajo inaceptable
+   medio muy alto   tres     mas    medio  medio   aceptable
+   medio muy alto   tres     mas    medio   alto   aceptable
+   medio muy alto   tres     mas   grande   bajo inaceptable
+   medio muy alto   tres     mas   grande  medio   aceptable
+   medio muy alto   tres     mas   grande   alto   aceptable
+   medio muy alto cuatro     dos  pequeño   bajo inaceptable
+   medio muy alto cuatro     dos  pequeño  medio inaceptable
+   medio muy alto cuatro     dos  pequeño   alto inaceptable
+   medio muy alto cuatro     dos    medio   bajo inaceptable
+   medio muy alto cuatro     dos    medio  medio inaceptable
+   medio muy alto cuatro     dos    medio   alto inaceptable
+   medio muy alto cuatro     dos   grande   bajo inaceptable
+   medio muy alto cuatro     dos   grande  medio inaceptable
+   medio muy alto cuatro     dos   grande   alto inaceptable
+   medio muy alto cuatro  cuatro  pequeño   bajo inaceptable
+   medio muy alto cuatro  cuatro  pequeño  medio inaceptable
+   medio muy alto cuatro  cuatro  pequeño   alto   aceptable
+   medio muy alto cuatro  cuatro    medio   bajo inaceptable
+   medio muy alto cuatro  cuatro    medio  medio   aceptable
+   medio muy alto cuatro  cuatro    medio   alto   aceptable
+   medio muy alto cuatro  cuatro   grande   bajo inaceptable
+   medio muy alto cuatro  cuatro   grande  medio   aceptable
+   medio muy alto cuatro  cuatro   grande   alto   aceptable
+   medio muy alto cuatro     mas  pequeño   bajo inaceptable
+   medio muy alto cuatro     mas  pequeño  medio inaceptable
+   medio muy alto cuatro     mas  pequeño   alto   aceptable
+   medio muy alto cuatro     mas    medio   bajo inaceptable
+   medio muy alto cuatro     mas    medio  medio   aceptable
+   medio muy alto cuatro     mas    medio   alto   aceptable
+   medio muy alto cuatro     mas   grande   bajo inaceptable
+   medio muy alto cuatro     mas   grande  medio   aceptable
+   medio muy alto cuatro     mas   grande   alto   aceptable
+   medio muy alto    mas     dos  pequeño   bajo inaceptable
+   medio muy alto    mas     dos  pequeño  medio inaceptable
+   medio muy alto    mas     dos  pequeño   alto inaceptable
+   medio muy alto    mas     dos    medio   bajo inaceptable
+   medio muy alto    mas     dos    medio  medio inaceptable
+   medio muy alto    mas     dos    medio   alto inaceptable
+   medio muy alto    mas     dos   grande   bajo inaceptable
+   medio muy alto    mas     dos   grande  medio inaceptable
+   medio muy alto    mas     dos   grande   alto inaceptable
+   medio muy alto    mas  cuatro  pequeño   bajo inaceptable
+   medio muy alto    mas  cuatro  pequeño  medio inaceptable
+   medio muy alto    mas  cuatro  pequeño   alto   aceptable
+   medio muy alto    mas  cuatro    medio   bajo inaceptable
+   medio muy alto    mas  cuatro    medio  medio   aceptable
+   medio muy alto    mas  cuatro    medio   alto   aceptable
+   medio muy alto    mas  cuatro   grande   bajo inaceptable
+   medio muy alto    mas  cuatro   grande  medio   aceptable
+   medio muy alto    mas  cuatro   grande   alto   aceptable
+   medio muy alto    mas     mas  pequeño   bajo inaceptable
+   medio muy alto    mas     mas  pequeño  medio inaceptable
+   medio muy alto    mas     mas  pequeño   alto   aceptable
+   medio muy alto    mas     mas    medio   bajo inaceptable
+   medio muy alto    mas     mas    medio  medio   aceptable
+   medio muy alto    mas     mas    medio   alto   aceptable
+   medio muy alto    mas     mas   grande   bajo inaceptable
+   medio muy alto    mas     mas   grande  medio   aceptable
+   medio muy alto    mas     mas   grande   alto   aceptable
+   medio     alto    dos     dos  pequeño   bajo inaceptable
+   medio     alto    dos     dos  pequeño  medio inaceptable
+   medio     alto    dos     dos  pequeño   alto inaceptable
+   medio     alto    dos     dos    medio   bajo inaceptable
+   medio     alto    dos     dos    medio  medio inaceptable
+   medio     alto    dos     dos    medio   alto inaceptable
+   medio     alto    dos     dos   grande   bajo inaceptable
+   medio     alto    dos     dos   grande  medio inaceptable
+   medio     alto    dos     dos   grande   alto inaceptable
+   medio     alto    dos  cuatro  pequeño   bajo inaceptable
+   medio     alto    dos  cuatro  pequeño  medio inaceptable
+   medio     alto    dos  cuatro  pequeño   alto   aceptable
+   medio     alto    dos  cuatro    medio   bajo inaceptable
+   medio     alto    dos  cuatro    medio  medio inaceptable
+   medio     alto    dos  cuatro    medio   alto   aceptable
+   medio     alto    dos  cuatro   grande   bajo inaceptable
+   medio     alto    dos  cuatro   grande  medio   aceptable
+   medio     alto    dos  cuatro   grande   alto   aceptable
+   medio     alto    dos     mas  pequeño   bajo inaceptable
+   medio     alto    dos     mas  pequeño  medio inaceptable
+   medio     alto    dos     mas  pequeño   alto inaceptable
+   medio     alto    dos     mas    medio   bajo inaceptable
+   medio     alto    dos     mas    medio  medio inaceptable
+   medio     alto    dos     mas    medio   alto   aceptable
+   medio     alto    dos     mas   grande   bajo inaceptable
+   medio     alto    dos     mas   grande  medio   aceptable
+   medio     alto    dos     mas   grande   alto   aceptable
+   medio     alto   tres     dos  pequeño   bajo inaceptable
+   medio     alto   tres     dos  pequeño  medio inaceptable
+   medio     alto   tres     dos  pequeño   alto inaceptable
+   medio     alto   tres     dos    medio   bajo inaceptable
+   medio     alto   tres     dos    medio  medio inaceptable
+   medio     alto   tres     dos    medio   alto inaceptable
+   medio     alto   tres     dos   grande   bajo inaceptable
+   medio     alto   tres     dos   grande  medio inaceptable
+   medio     alto   tres     dos   grande   alto inaceptable
+   medio     alto   tres  cuatro  pequeño   bajo inaceptable
+   medio     alto   tres  cuatro  pequeño  medio inaceptable
+   medio     alto   tres  cuatro  pequeño   alto   aceptable
+   medio     alto   tres  cuatro    medio   bajo inaceptable
+   medio     alto   tres  cuatro    medio  medio inaceptable
+   medio     alto   tres  cuatro    medio   alto   aceptable
+   medio     alto   tres  cuatro   grande   bajo inaceptable
+   medio     alto   tres  cuatro   grande  medio   aceptable
+   medio     alto   tres  cuatro   grande   alto   aceptable
+   medio     alto   tres     mas  pequeño   bajo inaceptable
+   medio     alto   tres     mas  pequeño  medio inaceptable
+   medio     alto   tres     mas  pequeño   alto   aceptable
+   medio     alto   tres     mas    medio   bajo inaceptable
+   medio     alto   tres     mas    medio  medio   aceptable
+   medio     alto   tres     mas    medio   alto   aceptable
+   medio     alto   tres     mas   grande   bajo inaceptable
+   medio     alto   tres     mas   grande  medio   aceptable
+   medio     alto   tres     mas   grande   alto   aceptable
+   medio     alto cuatro     dos  pequeño   bajo inaceptable
+   medio     alto cuatro     dos  pequeño  medio inaceptable
+   medio     alto cuatro     dos  pequeño   alto inaceptable
+   medio     alto cuatro     dos    medio   bajo inaceptable
+   medio     alto cuatro     dos    medio  medio inaceptable
+   medio     alto cuatro     dos    medio   alto inaceptable
+   medio     alto cuatro     dos   grande   bajo inaceptable
+   medio     alto cuatro     dos   grande  medio inaceptable
+   medio     alto cuatro     dos   grande   alto inaceptable
+   medio     alto cuatro  cuatro  pequeño   bajo inaceptable
+   medio     alto cuatro  cuatro  pequeño  medio inaceptable
+   medio     alto cuatro  cuatro  pequeño   alto   aceptable
+   medio     alto cuatro  cuatro    medio   bajo inaceptable
+   medio     alto cuatro  cuatro    medio  medio   aceptable
+   medio     alto cuatro  cuatro    medio   alto   aceptable
+   medio     alto cuatro  cuatro   grande   bajo inaceptable
+   medio     alto cuatro  cuatro   grande  medio   aceptable
+   medio     alto cuatro  cuatro   grande   alto   aceptable
+   medio     alto cuatro     mas  pequeño   bajo inaceptable
+   medio     alto cuatro     mas  pequeño  medio inaceptable
+   medio     alto cuatro     mas  pequeño   alto   aceptable
+   medio     alto cuatro     mas    medio   bajo inaceptable
+   medio     alto cuatro     mas    medio  medio   aceptable
+   medio     alto cuatro     mas    medio   alto   aceptable
+   medio     alto cuatro     mas   grande   bajo inaceptable
+   medio     alto cuatro     mas   grande  medio   aceptable
+   medio     alto cuatro     mas   grande   alto   aceptable
+   medio     alto    mas     dos  pequeño   bajo inaceptable
+   medio     alto    mas     dos  pequeño  medio inaceptable
+   medio     alto    mas     dos  pequeño   alto inaceptable
+   medio     alto    mas     dos    medio   bajo inaceptable
+   medio     alto    mas     dos    medio  medio inaceptable
+   medio     alto    mas     dos    medio   alto inaceptable
+   medio     alto    mas     dos   grande   bajo inaceptable
+   medio     alto    mas     dos   grande  medio inaceptable
+   medio     alto    mas     dos   grande   alto inaceptable
+   medio     alto    mas  cuatro  pequeño   bajo inaceptable
+   medio     alto    mas  cuatro  pequeño  medio inaceptable
+   medio     alto    mas  cuatro  pequeño   alto   aceptable
+   medio     alto    mas  cuatro    medio   bajo inaceptable
+   medio     alto    mas  cuatro    medio  medio   aceptable
+   medio     alto    mas  cuatro    medio   alto   aceptable
+   medio     alto    mas  cuatro   grande   bajo inaceptable
+   medio     alto    mas  cuatro   grande  medio   aceptable
+   medio     alto    mas  cuatro   grande   alto   aceptable
+   medio     alto    mas     mas  pequeño   bajo inaceptable
+   medio     alto    mas     mas  pequeño  medio inaceptable
+   medio     alto    mas     mas  pequeño   alto   aceptable
+   medio     alto    mas     mas    medio   bajo inaceptable
+   medio     alto    mas     mas    medio  medio   aceptable
+   medio     alto    mas     mas    medio   alto   aceptable
+   medio     alto    mas     mas   grande   bajo inaceptable
+   medio     alto    mas     mas   grande  medio   aceptable
+   medio     alto    mas     mas   grande   alto   aceptable
+   medio    medio    dos     dos  pequeño   bajo inaceptable
+   medio    medio    dos     dos  pequeño  medio inaceptable
+   medio    medio    dos     dos  pequeño   alto inaceptable
+   medio    medio    dos     dos    medio   bajo inaceptable
+   medio    medio    dos     dos    medio  medio inaceptable
+   medio    medio    dos     dos    medio   alto inaceptable
+   medio    medio    dos     dos   grande   bajo inaceptable
+   medio    medio    dos     dos   grande  medio inaceptable
+   medio    medio    dos     dos   grande   alto inaceptable
+   medio    medio    dos  cuatro  pequeño   bajo inaceptable
+   medio    medio    dos  cuatro  pequeño  medio   aceptable
+   medio    medio    dos  cuatro  pequeño   alto   aceptable
+   medio    medio    dos  cuatro    medio   bajo inaceptable
+   medio    medio    dos  cuatro    medio  medio   aceptable
+   medio    medio    dos  cuatro    medio   alto   aceptable
+   medio    medio    dos  cuatro   grande   bajo inaceptable
+   medio    medio    dos  cuatro   grande  medio   aceptable
+   medio    medio    dos  cuatro   grande   alto   muy bueno
+   medio    medio    dos     mas  pequeño   bajo inaceptable
+   medio    medio    dos     mas  pequeño  medio inaceptable
+   medio    medio    dos     mas  pequeño   alto inaceptable
+   medio    medio    dos     mas    medio   bajo inaceptable
+   medio    medio    dos     mas    medio  medio   aceptable
+   medio    medio    dos     mas    medio   alto   aceptable
+   medio    medio    dos     mas   grande   bajo inaceptable
+   medio    medio    dos     mas   grande  medio   aceptable
+   medio    medio    dos     mas   grande   alto   muy bueno
+   medio    medio   tres     dos  pequeño   bajo inaceptable
+   medio    medio   tres     dos  pequeño  medio inaceptable
+   medio    medio   tres     dos  pequeño   alto inaceptable
+   medio    medio   tres     dos    medio   bajo inaceptable
+   medio    medio   tres     dos    medio  medio inaceptable
+   medio    medio   tres     dos    medio   alto inaceptable
+   medio    medio   tres     dos   grande   bajo inaceptable
+   medio    medio   tres     dos   grande  medio inaceptable
+   medio    medio   tres     dos   grande   alto inaceptable
+   medio    medio   tres  cuatro  pequeño   bajo inaceptable
+   medio    medio   tres  cuatro  pequeño  medio   aceptable
+   medio    medio   tres  cuatro  pequeño   alto   aceptable
+   medio    medio   tres  cuatro    medio   bajo inaceptable
+   medio    medio   tres  cuatro    medio  medio   aceptable
+   medio    medio   tres  cuatro    medio   alto   aceptable
+   medio    medio   tres  cuatro   grande   bajo inaceptable
+   medio    medio   tres  cuatro   grande  medio   aceptable
+   medio    medio   tres  cuatro   grande   alto   muy bueno
+   medio    medio   tres     mas  pequeño   bajo inaceptable
+   medio    medio   tres     mas  pequeño  medio   aceptable
+   medio    medio   tres     mas  pequeño   alto   aceptable
+   medio    medio   tres     mas    medio   bajo inaceptable
+   medio    medio   tres     mas    medio  medio   aceptable
+   medio    medio   tres     mas    medio   alto   muy bueno
+   medio    medio   tres     mas   grande   bajo inaceptable
+   medio    medio   tres     mas   grande  medio   aceptable
+   medio    medio   tres     mas   grande   alto   muy bueno
+   medio    medio cuatro     dos  pequeño   bajo inaceptable
+   medio    medio cuatro     dos  pequeño  medio inaceptable
+   medio    medio cuatro     dos  pequeño   alto inaceptable
+   medio    medio cuatro     dos    medio   bajo inaceptable
+   medio    medio cuatro     dos    medio  medio inaceptable
+   medio    medio cuatro     dos    medio   alto inaceptable
+   medio    medio cuatro     dos   grande   bajo inaceptable
+   medio    medio cuatro     dos   grande  medio inaceptable
+   medio    medio cuatro     dos   grande   alto inaceptable
+   medio    medio cuatro  cuatro  pequeño   bajo inaceptable
+   medio    medio cuatro  cuatro  pequeño  medio   aceptable
+   medio    medio cuatro  cuatro  pequeño   alto   aceptable
+   medio    medio cuatro  cuatro    medio   bajo inaceptable
+   medio    medio cuatro  cuatro    medio  medio   aceptable
+   medio    medio cuatro  cuatro    medio   alto   muy bueno
+   medio    medio cuatro  cuatro   grande   bajo inaceptable
+   medio    medio cuatro  cuatro   grande  medio   aceptable
+   medio    medio cuatro  cuatro   grande   alto   muy bueno
+   medio    medio cuatro     mas  pequeño   bajo inaceptable
+   medio    medio cuatro     mas  pequeño  medio   aceptable
+   medio    medio cuatro     mas  pequeño   alto   aceptable
+   medio    medio cuatro     mas    medio   bajo inaceptable
+   medio    medio cuatro     mas    medio  medio   aceptable
+   medio    medio cuatro     mas    medio   alto   muy bueno
+   medio    medio cuatro     mas   grande   bajo inaceptable
+   medio    medio cuatro     mas   grande  medio   aceptable
+   medio    medio cuatro     mas   grande   alto   muy bueno
+   medio    medio    mas     dos  pequeño   bajo inaceptable
+   medio    medio    mas     dos  pequeño  medio inaceptable
+   medio    medio    mas     dos  pequeño   alto inaceptable
+   medio    medio    mas     dos    medio   bajo inaceptable
+   medio    medio    mas     dos    medio  medio inaceptable
+   medio    medio    mas     dos    medio   alto inaceptable
+   medio    medio    mas     dos   grande   bajo inaceptable
+   medio    medio    mas     dos   grande  medio inaceptable
+   medio    medio    mas     dos   grande   alto inaceptable
+   medio    medio    mas  cuatro  pequeño   bajo inaceptable
+   medio    medio    mas  cuatro  pequeño  medio   aceptable
+   medio    medio    mas  cuatro  pequeño   alto   aceptable
+   medio    medio    mas  cuatro    medio   bajo inaceptable
+   medio    medio    mas  cuatro    medio  medio   aceptable
+   medio    medio    mas  cuatro    medio   alto   muy bueno
+   medio    medio    mas  cuatro   grande   bajo inaceptable
+   medio    medio    mas  cuatro   grande  medio   aceptable
+   medio    medio    mas  cuatro   grande   alto   muy bueno
+   medio    medio    mas     mas  pequeño   bajo inaceptable
+   medio    medio    mas     mas  pequeño  medio   aceptable
+   medio    medio    mas     mas  pequeño   alto   aceptable
+   medio    medio    mas     mas    medio   bajo inaceptable
+   medio    medio    mas     mas    medio  medio   aceptable
+   medio    medio    mas     mas    medio   alto   muy bueno
+   medio    medio    mas     mas   grande   bajo inaceptable
+   medio    medio    mas     mas   grande  medio   aceptable
+   medio    medio    mas     mas   grande   alto   muy bueno
+   medio     bajo    dos     dos  pequeño   bajo inaceptable
+   medio     bajo    dos     dos  pequeño  medio inaceptable
+   medio     bajo    dos     dos  pequeño   alto inaceptable
+   medio     bajo    dos     dos    medio   bajo inaceptable
+   medio     bajo    dos     dos    medio  medio inaceptable
+   medio     bajo    dos     dos    medio   alto inaceptable
+   medio     bajo    dos     dos   grande   bajo inaceptable
+   medio     bajo    dos     dos   grande  medio inaceptable
+   medio     bajo    dos     dos   grande   alto inaceptable
+   medio     bajo    dos  cuatro  pequeño   bajo inaceptable
+   medio     bajo    dos  cuatro  pequeño  medio   aceptable
+   medio     bajo    dos  cuatro  pequeño   alto       bueno
+   medio     bajo    dos  cuatro    medio   bajo inaceptable
+   medio     bajo    dos  cuatro    medio  medio   aceptable
+   medio     bajo    dos  cuatro    medio   alto       bueno
+   medio     bajo    dos  cuatro   grande   bajo inaceptable
+   medio     bajo    dos  cuatro   grande  medio       bueno
+   medio     bajo    dos  cuatro   grande   alto   muy bueno
+   medio     bajo    dos     mas  pequeño   bajo inaceptable
+   medio     bajo    dos     mas  pequeño  medio inaceptable
+   medio     bajo    dos     mas  pequeño   alto inaceptable
+   medio     bajo    dos     mas    medio   bajo inaceptable
+   medio     bajo    dos     mas    medio  medio   aceptable
+   medio     bajo    dos     mas    medio   alto       bueno
+   medio     bajo    dos     mas   grande   bajo inaceptable
+   medio     bajo    dos     mas   grande  medio       bueno
+   medio     bajo    dos     mas   grande   alto   muy bueno
+   medio     bajo   tres     dos  pequeño   bajo inaceptable
+   medio     bajo   tres     dos  pequeño  medio inaceptable
+   medio     bajo   tres     dos  pequeño   alto inaceptable
+   medio     bajo   tres     dos    medio   bajo inaceptable
+   medio     bajo   tres     dos    medio  medio inaceptable
+   medio     bajo   tres     dos    medio   alto inaceptable
+   medio     bajo   tres     dos   grande   bajo inaceptable
+   medio     bajo   tres     dos   grande  medio inaceptable
+   medio     bajo   tres     dos   grande   alto inaceptable
+   medio     bajo   tres  cuatro  pequeño   bajo inaceptable
+   medio     bajo   tres  cuatro  pequeño  medio   aceptable
+   medio     bajo   tres  cuatro  pequeño   alto       bueno
+   medio     bajo   tres  cuatro    medio   bajo inaceptable
+   medio     bajo   tres  cuatro    medio  medio   aceptable
+   medio     bajo   tres  cuatro    medio   alto       bueno
+   medio     bajo   tres  cuatro   grande   bajo inaceptable
+   medio     bajo   tres  cuatro   grande  medio       bueno
+   medio     bajo   tres  cuatro   grande   alto   muy bueno
+   medio     bajo   tres     mas  pequeño   bajo inaceptable
+   medio     bajo   tres     mas  pequeño  medio   aceptable
+   medio     bajo   tres     mas  pequeño   alto       bueno
+   medio     bajo   tres     mas    medio   bajo inaceptable
+   medio     bajo   tres     mas    medio  medio       bueno
+   medio     bajo   tres     mas    medio   alto   muy bueno
+   medio     bajo   tres     mas   grande   bajo inaceptable
+   medio     bajo   tres     mas   grande  medio       bueno
+   medio     bajo   tres     mas   grande   alto   muy bueno
+   medio     bajo cuatro     dos  pequeño   bajo inaceptable
+   medio     bajo cuatro     dos  pequeño  medio inaceptable
+   medio     bajo cuatro     dos  pequeño   alto inaceptable
+   medio     bajo cuatro     dos    medio   bajo inaceptable
+   medio     bajo cuatro     dos    medio  medio inaceptable
+   medio     bajo cuatro     dos    medio   alto inaceptable
+   medio     bajo cuatro     dos   grande   bajo inaceptable
+   medio     bajo cuatro     dos   grande  medio inaceptable
+   medio     bajo cuatro     dos   grande   alto inaceptable
+   medio     bajo cuatro  cuatro  pequeño   bajo inaceptable
+   medio     bajo cuatro  cuatro  pequeño  medio   aceptable
+   medio     bajo cuatro  cuatro  pequeño   alto       bueno
+   medio     bajo cuatro  cuatro    medio   bajo inaceptable
+   medio     bajo cuatro  cuatro    medio  medio       bueno
+   medio     bajo cuatro  cuatro    medio   alto   muy bueno
+   medio     bajo cuatro  cuatro   grande   bajo inaceptable
+   medio     bajo cuatro  cuatro   grande  medio       bueno
+   medio     bajo cuatro  cuatro   grande   alto   muy bueno
+   medio     bajo cuatro     mas  pequeño   bajo inaceptable
+   medio     bajo cuatro     mas  pequeño  medio   aceptable
+   medio     bajo cuatro     mas  pequeño   alto       bueno
+   medio     bajo cuatro     mas    medio   bajo inaceptable
+   medio     bajo cuatro     mas    medio  medio       bueno
+   medio     bajo cuatro     mas    medio   alto   muy bueno
+   medio     bajo cuatro     mas   grande   bajo inaceptable
+   medio     bajo cuatro     mas   grande  medio       bueno
+   medio     bajo cuatro     mas   grande   alto   muy bueno
+   medio     bajo    mas     dos  pequeño   bajo inaceptable
+   medio     bajo    mas     dos  pequeño  medio inaceptable
+   medio     bajo    mas     dos  pequeño   alto inaceptable
+   medio     bajo    mas     dos    medio   bajo inaceptable
+   medio     bajo    mas     dos    medio  medio inaceptable
+   medio     bajo    mas     dos    medio   alto inaceptable
+   medio     bajo    mas     dos   grande   bajo inaceptable
+   medio     bajo    mas     dos   grande  medio inaceptable
+   medio     bajo    mas     dos   grande   alto inaceptable
+   medio     bajo    mas  cuatro  pequeño   bajo inaceptable
+   medio     bajo    mas  cuatro  pequeño  medio   aceptable
+   medio     bajo    mas  cuatro  pequeño   alto       bueno
+   medio     bajo    mas  cuatro    medio   bajo inaceptable
+   medio     bajo    mas  cuatro    medio  medio       bueno
+   medio     bajo    mas  cuatro    medio   alto   muy bueno
+   medio     bajo    mas  cuatro   grande   bajo inaceptable
+   medio     bajo    mas  cuatro   grande  medio       bueno
+   medio     bajo    mas  cuatro   grande   alto   muy bueno
+   medio     bajo    mas     mas  pequeño   bajo inaceptable
+   medio     bajo    mas     mas  pequeño  medio   aceptable
+   medio     bajo    mas     mas  pequeño   alto       bueno
+   medio     bajo    mas     mas    medio   bajo inaceptable
+   medio     bajo    mas     mas    medio  medio       bueno
+   medio     bajo    mas     mas    medio   alto   muy bueno
+   medio     bajo    mas     mas   grande   bajo inaceptable
+   medio     bajo    mas     mas   grande  medio       bueno
+   medio     bajo    mas     mas   grande   alto   muy bueno
+    bajo muy alto    dos     dos  pequeño   bajo inaceptable
+    bajo muy alto    dos     dos  pequeño  medio inaceptable
+    bajo muy alto    dos     dos  pequeño   alto inaceptable
+    bajo muy alto    dos     dos    medio   bajo inaceptable
+    bajo muy alto    dos     dos    medio  medio inaceptable
+    bajo muy alto    dos     dos    medio   alto inaceptable
+    bajo muy alto    dos     dos   grande   bajo inaceptable
+    bajo muy alto    dos     dos   grande  medio inaceptable
+    bajo muy alto    dos     dos   grande   alto inaceptable
+    bajo muy alto    dos  cuatro  pequeño   bajo inaceptable
+    bajo muy alto    dos  cuatro  pequeño  medio inaceptable
+    bajo muy alto    dos  cuatro  pequeño   alto   aceptable
+    bajo muy alto    dos  cuatro    medio   bajo inaceptable
+    bajo muy alto    dos  cuatro    medio  medio inaceptable
+    bajo muy alto    dos  cuatro    medio   alto   aceptable
+    bajo muy alto    dos  cuatro   grande   bajo inaceptable
+    bajo muy alto    dos  cuatro   grande  medio   aceptable
+    bajo muy alto    dos  cuatro   grande   alto   aceptable
+    bajo muy alto    dos     mas  pequeño   bajo inaceptable
+    bajo muy alto    dos     mas  pequeño  medio inaceptable
+    bajo muy alto    dos     mas  pequeño   alto inaceptable
+    bajo muy alto    dos     mas    medio   bajo inaceptable
+    bajo muy alto    dos     mas    medio  medio inaceptable
+    bajo muy alto    dos     mas    medio   alto   aceptable
+    bajo muy alto    dos     mas   grande   bajo inaceptable
+    bajo muy alto    dos     mas   grande  medio   aceptable
+    bajo muy alto    dos     mas   grande   alto   aceptable
+    bajo muy alto   tres     dos  pequeño   bajo inaceptable
+    bajo muy alto   tres     dos  pequeño  medio inaceptable
+    bajo muy alto   tres     dos  pequeño   alto inaceptable
+    bajo muy alto   tres     dos    medio   bajo inaceptable
+    bajo muy alto   tres     dos    medio  medio inaceptable
+    bajo muy alto   tres     dos    medio   alto inaceptable
+    bajo muy alto   tres     dos   grande   bajo inaceptable
+    bajo muy alto   tres     dos   grande  medio inaceptable
+    bajo muy alto   tres     dos   grande   alto inaceptable
+    bajo muy alto   tres  cuatro  pequeño   bajo inaceptable
+    bajo muy alto   tres  cuatro  pequeño  medio inaceptable
+    bajo muy alto   tres  cuatro  pequeño   alto   aceptable
+    bajo muy alto   tres  cuatro    medio   bajo inaceptable
+    bajo muy alto   tres  cuatro    medio  medio inaceptable
+    bajo muy alto   tres  cuatro    medio   alto   aceptable
+    bajo muy alto   tres  cuatro   grande   bajo inaceptable
+    bajo muy alto   tres  cuatro   grande  medio   aceptable
+    bajo muy alto   tres  cuatro   grande   alto   aceptable
+    bajo muy alto   tres     mas  pequeño   bajo inaceptable
+    bajo muy alto   tres     mas  pequeño  medio inaceptable
+    bajo muy alto   tres     mas  pequeño   alto   aceptable
+    bajo muy alto   tres     mas    medio   bajo inaceptable
+    bajo muy alto   tres     mas    medio  medio   aceptable
+    bajo muy alto   tres     mas    medio   alto   aceptable
+    bajo muy alto   tres     mas   grande   bajo inaceptable
+    bajo muy alto   tres     mas   grande  medio   aceptable
+    bajo muy alto   tres     mas   grande   alto   aceptable
+    bajo muy alto cuatro     dos  pequeño   bajo inaceptable
+    bajo muy alto cuatro     dos  pequeño  medio inaceptable
+    bajo muy alto cuatro     dos  pequeño   alto inaceptable
+    bajo muy alto cuatro     dos    medio   bajo inaceptable
+    bajo muy alto cuatro     dos    medio  medio inaceptable
+    bajo muy alto cuatro     dos    medio   alto inaceptable
+    bajo muy alto cuatro     dos   grande   bajo inaceptable
+    bajo muy alto cuatro     dos   grande  medio inaceptable
+    bajo muy alto cuatro     dos   grande   alto inaceptable
+    bajo muy alto cuatro  cuatro  pequeño   bajo inaceptable
+    bajo muy alto cuatro  cuatro  pequeño  medio inaceptable
+    bajo muy alto cuatro  cuatro  pequeño   alto   aceptable
+    bajo muy alto cuatro  cuatro    medio   bajo inaceptable
+    bajo muy alto cuatro  cuatro    medio  medio   aceptable
+    bajo muy alto cuatro  cuatro    medio   alto   aceptable
+    bajo muy alto cuatro  cuatro   grande   bajo inaceptable
+    bajo muy alto cuatro  cuatro   grande  medio   aceptable
+    bajo muy alto cuatro  cuatro   grande   alto   aceptable
+    bajo muy alto cuatro     mas  pequeño   bajo inaceptable
+    bajo muy alto cuatro     mas  pequeño  medio inaceptable
+    bajo muy alto cuatro     mas  pequeño   alto   aceptable
+    bajo muy alto cuatro     mas    medio   bajo inaceptable
+    bajo muy alto cuatro     mas    medio  medio   aceptable
+    bajo muy alto cuatro     mas    medio   alto   aceptable
+    bajo muy alto cuatro     mas   grande   bajo inaceptable
+    bajo muy alto cuatro     mas   grande  medio   aceptable
+    bajo muy alto cuatro     mas   grande   alto   aceptable
+    bajo muy alto    mas     dos  pequeño   bajo inaceptable
+    bajo muy alto    mas     dos  pequeño  medio inaceptable
+    bajo muy alto    mas     dos  pequeño   alto inaceptable
+    bajo muy alto    mas     dos    medio   bajo inaceptable
+    bajo muy alto    mas     dos    medio  medio inaceptable
+    bajo muy alto    mas     dos    medio   alto inaceptable
+    bajo muy alto    mas     dos   grande   bajo inaceptable
+    bajo muy alto    mas     dos   grande  medio inaceptable
+    bajo muy alto    mas     dos   grande   alto inaceptable
+    bajo muy alto    mas  cuatro  pequeño   bajo inaceptable
+    bajo muy alto    mas  cuatro  pequeño  medio inaceptable
+    bajo muy alto    mas  cuatro  pequeño   alto   aceptable
+    bajo muy alto    mas  cuatro    medio   bajo inaceptable
+    bajo muy alto    mas  cuatro    medio  medio   aceptable
+    bajo muy alto    mas  cuatro    medio   alto   aceptable
+    bajo muy alto    mas  cuatro   grande   bajo inaceptable
+    bajo muy alto    mas  cuatro   grande  medio   aceptable
+    bajo muy alto    mas  cuatro   grande   alto   aceptable
+    bajo muy alto    mas     mas  pequeño   bajo inaceptable
+    bajo muy alto    mas     mas  pequeño  medio inaceptable
+    bajo muy alto    mas     mas  pequeño   alto   aceptable
+    bajo muy alto    mas     mas    medio   bajo inaceptable
+    bajo muy alto    mas     mas    medio  medio   aceptable
+    bajo muy alto    mas     mas    medio   alto   aceptable
+    bajo muy alto    mas     mas   grande   bajo inaceptable
+    bajo muy alto    mas     mas   grande  medio   aceptable
+    bajo muy alto    mas     mas   grande   alto   aceptable
+    bajo     alto    dos     dos  pequeño   bajo inaceptable
+    bajo     alto    dos     dos  pequeño  medio inaceptable
+    bajo     alto    dos     dos  pequeño   alto inaceptable
+    bajo     alto    dos     dos    medio   bajo inaceptable
+    bajo     alto    dos     dos    medio  medio inaceptable
+    bajo     alto    dos     dos    medio   alto inaceptable
+    bajo     alto    dos     dos   grande   bajo inaceptable
+    bajo     alto    dos     dos   grande  medio inaceptable
+    bajo     alto    dos     dos   grande   alto inaceptable
+    bajo     alto    dos  cuatro  pequeño   bajo inaceptable
+    bajo     alto    dos  cuatro  pequeño  medio   aceptable
+    bajo     alto    dos  cuatro  pequeño   alto   aceptable
+    bajo     alto    dos  cuatro    medio   bajo inaceptable
+    bajo     alto    dos  cuatro    medio  medio   aceptable
+    bajo     alto    dos  cuatro    medio   alto   aceptable
+    bajo     alto    dos  cuatro   grande   bajo inaceptable
+    bajo     alto    dos  cuatro   grande  medio   aceptable
+    bajo     alto    dos  cuatro   grande   alto   muy bueno
+    bajo     alto    dos     mas  pequeño   bajo inaceptable
+    bajo     alto    dos     mas  pequeño  medio inaceptable
+    bajo     alto    dos     mas  pequeño   alto inaceptable
+    bajo     alto    dos     mas    medio   bajo inaceptable
+    bajo     alto    dos     mas    medio  medio   aceptable
+    bajo     alto    dos     mas    medio   alto   aceptable
+    bajo     alto    dos     mas   grande   bajo inaceptable
+    bajo     alto    dos     mas   grande  medio   aceptable
+    bajo     alto    dos     mas   grande   alto   muy bueno
+    bajo     alto   tres     dos  pequeño   bajo inaceptable
+    bajo     alto   tres     dos  pequeño  medio inaceptable
+    bajo     alto   tres     dos  pequeño   alto inaceptable
+    bajo     alto   tres     dos    medio   bajo inaceptable
+    bajo     alto   tres     dos    medio  medio inaceptable
+    bajo     alto   tres     dos    medio   alto inaceptable
+    bajo     alto   tres     dos   grande   bajo inaceptable
+    bajo     alto   tres     dos   grande  medio inaceptable
+    bajo     alto   tres     dos   grande   alto inaceptable
+    bajo     alto   tres  cuatro  pequeño   bajo inaceptable
+    bajo     alto   tres  cuatro  pequeño  medio   aceptable
+    bajo     alto   tres  cuatro  pequeño   alto   aceptable
+    bajo     alto   tres  cuatro    medio   bajo inaceptable
+    bajo     alto   tres  cuatro    medio  medio   aceptable
+    bajo     alto   tres  cuatro    medio   alto   aceptable
+    bajo     alto   tres  cuatro   grande   bajo inaceptable
+    bajo     alto   tres  cuatro   grande  medio   aceptable
+    bajo     alto   tres  cuatro   grande   alto   muy bueno
+    bajo     alto   tres     mas  pequeño   bajo inaceptable
+    bajo     alto   tres     mas  pequeño  medio   aceptable
+    bajo     alto   tres     mas  pequeño   alto   aceptable
+    bajo     alto   tres     mas    medio   bajo inaceptable
+    bajo     alto   tres     mas    medio  medio   aceptable
+    bajo     alto   tres     mas    medio   alto   muy bueno
+    bajo     alto   tres     mas   grande   bajo inaceptable
+    bajo     alto   tres     mas   grande  medio   aceptable
+    bajo     alto   tres     mas   grande   alto   muy bueno
+    bajo     alto cuatro     dos  pequeño   bajo inaceptable
+    bajo     alto cuatro     dos  pequeño  medio inaceptable
+    bajo     alto cuatro     dos  pequeño   alto inaceptable
+    bajo     alto cuatro     dos    medio   bajo inaceptable
+    bajo     alto cuatro     dos    medio  medio inaceptable
+    bajo     alto cuatro     dos    medio   alto inaceptable
+    bajo     alto cuatro     dos   grande   bajo inaceptable
+    bajo     alto cuatro     dos   grande  medio inaceptable
+    bajo     alto cuatro     dos   grande   alto inaceptable
+    bajo     alto cuatro  cuatro  pequeño   bajo inaceptable
+    bajo     alto cuatro  cuatro  pequeño  medio   aceptable
+    bajo     alto cuatro  cuatro  pequeño   alto   aceptable
+    bajo     alto cuatro  cuatro    medio   bajo inaceptable
+    bajo     alto cuatro  cuatro    medio  medio   aceptable
+    bajo     alto cuatro  cuatro    medio   alto   muy bueno
+    bajo     alto cuatro  cuatro   grande   bajo inaceptable
+    bajo     alto cuatro  cuatro   grande  medio   aceptable
+    bajo     alto cuatro  cuatro   grande   alto   muy bueno
+    bajo     alto cuatro     mas  pequeño   bajo inaceptable
+    bajo     alto cuatro     mas  pequeño  medio   aceptable
+    bajo     alto cuatro     mas  pequeño   alto   aceptable
+    bajo     alto cuatro     mas    medio   bajo inaceptable
+    bajo     alto cuatro     mas    medio  medio   aceptable
+    bajo     alto cuatro     mas    medio   alto   muy bueno
+    bajo     alto cuatro     mas   grande   bajo inaceptable
+    bajo     alto cuatro     mas   grande  medio   aceptable
+    bajo     alto cuatro     mas   grande   alto   muy bueno
+    bajo     alto    mas     dos  pequeño   bajo inaceptable
+    bajo     alto    mas     dos  pequeño  medio inaceptable
+    bajo     alto    mas     dos  pequeño   alto inaceptable
+    bajo     alto    mas     dos    medio   bajo inaceptable
+    bajo     alto    mas     dos    medio  medio inaceptable
+    bajo     alto    mas     dos    medio   alto inaceptable
+    bajo     alto    mas     dos   grande   bajo inaceptable
+    bajo     alto    mas     dos   grande  medio inaceptable
+    bajo     alto    mas     dos   grande   alto inaceptable
+    bajo     alto    mas  cuatro  pequeño   bajo inaceptable
+    bajo     alto    mas  cuatro  pequeño  medio   aceptable
+    bajo     alto    mas  cuatro  pequeño   alto   aceptable
+    bajo     alto    mas  cuatro    medio   bajo inaceptable
+    bajo     alto    mas  cuatro    medio  medio   aceptable
+    bajo     alto    mas  cuatro    medio   alto   muy bueno
+    bajo     alto    mas  cuatro   grande   bajo inaceptable
+    bajo     alto    mas  cuatro   grande  medio   aceptable
+    bajo     alto    mas  cuatro   grande   alto   muy bueno
+    bajo     alto    mas     mas  pequeño   bajo inaceptable
+    bajo     alto    mas     mas  pequeño  medio   aceptable
+    bajo     alto    mas     mas  pequeño   alto   aceptable
+    bajo     alto    mas     mas    medio   bajo inaceptable
+    bajo     alto    mas     mas    medio  medio   aceptable
+    bajo     alto    mas     mas    medio   alto   muy bueno
+    bajo     alto    mas     mas   grande   bajo inaceptable
+    bajo     alto    mas     mas   grande  medio   aceptable
+    bajo     alto    mas     mas   grande   alto   muy bueno
+    bajo    medio    dos     dos  pequeño   bajo inaceptable
+    bajo    medio    dos     dos  pequeño  medio inaceptable
+    bajo    medio    dos     dos  pequeño   alto inaceptable
+    bajo    medio    dos     dos    medio   bajo inaceptable
+    bajo    medio    dos     dos    medio  medio inaceptable
+    bajo    medio    dos     dos    medio   alto inaceptable
+    bajo    medio    dos     dos   grande   bajo inaceptable
+    bajo    medio    dos     dos   grande  medio inaceptable
+    bajo    medio    dos     dos   grande   alto inaceptable
+    bajo    medio    dos  cuatro  pequeño   bajo inaceptable
+    bajo    medio    dos  cuatro  pequeño  medio   aceptable
+    bajo    medio    dos  cuatro  pequeño   alto       bueno
+    bajo    medio    dos  cuatro    medio   bajo inaceptable
+    bajo    medio    dos  cuatro    medio  medio   aceptable
+    bajo    medio    dos  cuatro    medio   alto       bueno
+    bajo    medio    dos  cuatro   grande   bajo inaceptable
+    bajo    medio    dos  cuatro   grande  medio       bueno
+    bajo    medio    dos  cuatro   grande   alto   muy bueno
+    bajo    medio    dos     mas  pequeño   bajo inaceptable
+    bajo    medio    dos     mas  pequeño  medio inaceptable
+    bajo    medio    dos     mas  pequeño   alto inaceptable
+    bajo    medio    dos     mas    medio   bajo inaceptable
+    bajo    medio    dos     mas    medio  medio   aceptable
+    bajo    medio    dos     mas    medio   alto       bueno
+    bajo    medio    dos     mas   grande   bajo inaceptable
+    bajo    medio    dos     mas   grande  medio       bueno
+    bajo    medio    dos     mas   grande   alto   muy bueno
+    bajo    medio   tres     dos  pequeño   bajo inaceptable
+    bajo    medio   tres     dos  pequeño  medio inaceptable
+    bajo    medio   tres     dos  pequeño   alto inaceptable
+    bajo    medio   tres     dos    medio   bajo inaceptable
+    bajo    medio   tres     dos    medio  medio inaceptable
+    bajo    medio   tres     dos    medio   alto inaceptable
+    bajo    medio   tres     dos   grande   bajo inaceptable
+    bajo    medio   tres     dos   grande  medio inaceptable
+    bajo    medio   tres     dos   grande   alto inaceptable
+    bajo    medio   tres  cuatro  pequeño   bajo inaceptable
+    bajo    medio   tres  cuatro  pequeño  medio   aceptable
+    bajo    medio   tres  cuatro  pequeño   alto       bueno
+    bajo    medio   tres  cuatro    medio   bajo inaceptable
+    bajo    medio   tres  cuatro    medio  medio   aceptable
+    bajo    medio   tres  cuatro    medio   alto       bueno
+    bajo    medio   tres  cuatro   grande   bajo inaceptable
+    bajo    medio   tres  cuatro   grande  medio       bueno
+    bajo    medio   tres  cuatro   grande   alto   muy bueno
+    bajo    medio   tres     mas  pequeño   bajo inaceptable
+    bajo    medio   tres     mas  pequeño  medio   aceptable
+    bajo    medio   tres     mas  pequeño   alto       bueno
+    bajo    medio   tres     mas    medio   bajo inaceptable
+    bajo    medio   tres     mas    medio  medio       bueno
+    bajo    medio   tres     mas    medio   alto   muy bueno
+    bajo    medio   tres     mas   grande   bajo inaceptable
+    bajo    medio   tres     mas   grande  medio       bueno
+    bajo    medio   tres     mas   grande   alto   muy bueno
+    bajo    medio cuatro     dos  pequeño   bajo inaceptable
+    bajo    medio cuatro     dos  pequeño  medio inaceptable
+    bajo    medio cuatro     dos  pequeño   alto inaceptable
+    bajo    medio cuatro     dos    medio   bajo inaceptable
+    bajo    medio cuatro     dos    medio  medio inaceptable
+    bajo    medio cuatro     dos    medio   alto inaceptable
+    bajo    medio cuatro     dos   grande   bajo inaceptable
+    bajo    medio cuatro     dos   grande  medio inaceptable
+    bajo    medio cuatro     dos   grande   alto inaceptable
+    bajo    medio cuatro  cuatro  pequeño   bajo inaceptable
+    bajo    medio cuatro  cuatro  pequeño  medio   aceptable
+    bajo    medio cuatro  cuatro  pequeño   alto       bueno
+    bajo    medio cuatro  cuatro    medio   bajo inaceptable
+    bajo    medio cuatro  cuatro    medio  medio       bueno
+    bajo    medio cuatro  cuatro    medio   alto   muy bueno
+    bajo    medio cuatro  cuatro   grande   bajo inaceptable
+    bajo    medio cuatro  cuatro   grande  medio       bueno
+    bajo    medio cuatro  cuatro   grande   alto   muy bueno
+    bajo    medio cuatro     mas  pequeño   bajo inaceptable
+    bajo    medio cuatro     mas  pequeño  medio   aceptable
+    bajo    medio cuatro     mas  pequeño   alto       bueno
+    bajo    medio cuatro     mas    medio   bajo inaceptable
+    bajo    medio cuatro     mas    medio  medio       bueno
+    bajo    medio cuatro     mas    medio   alto   muy bueno
+    bajo    medio cuatro     mas   grande   bajo inaceptable
+    bajo    medio cuatro     mas   grande  medio       bueno
+    bajo    medio cuatro     mas   grande   alto   muy bueno
+    bajo    medio    mas     dos  pequeño   bajo inaceptable
+    bajo    medio    mas     dos  pequeño  medio inaceptable
+    bajo    medio    mas     dos  pequeño   alto inaceptable
+    bajo    medio    mas     dos    medio   bajo inaceptable
+    bajo    medio    mas     dos    medio  medio inaceptable
+    bajo    medio    mas     dos    medio   alto inaceptable
+    bajo    medio    mas     dos   grande   bajo inaceptable
+    bajo    medio    mas     dos   grande  medio inaceptable
+    bajo    medio    mas     dos   grande   alto inaceptable
+    bajo    medio    mas  cuatro  pequeño   bajo inaceptable
+    bajo    medio    mas  cuatro  pequeño  medio   aceptable
+    bajo    medio    mas  cuatro  pequeño   alto       bueno
+    bajo    medio    mas  cuatro    medio   bajo inaceptable
+    bajo    medio    mas  cuatro    medio  medio       bueno
+    bajo    medio    mas  cuatro    medio   alto   muy bueno
+    bajo    medio    mas  cuatro   grande   bajo inaceptable
+    bajo    medio    mas  cuatro   grande  medio       bueno
+    bajo    medio    mas  cuatro   grande   alto   muy bueno
+    bajo    medio    mas     mas  pequeño   bajo inaceptable
+    bajo    medio    mas     mas  pequeño  medio   aceptable
+    bajo    medio    mas     mas  pequeño   alto       bueno
+    bajo    medio    mas     mas    medio   bajo inaceptable
+    bajo    medio    mas     mas    medio  medio       bueno
+    bajo    medio    mas     mas    medio   alto   muy bueno
+    bajo    medio    mas     mas   grande   bajo inaceptable
+    bajo    medio    mas     mas   grande  medio       bueno
+    bajo    medio    mas     mas   grande   alto   muy bueno
+    bajo     bajo    dos     dos  pequeño   bajo inaceptable
+    bajo     bajo    dos     dos  pequeño  medio inaceptable
+    bajo     bajo    dos     dos  pequeño   alto inaceptable
+    bajo     bajo    dos     dos    medio   bajo inaceptable
+    bajo     bajo    dos     dos    medio  medio inaceptable
+    bajo     bajo    dos     dos    medio   alto inaceptable
+    bajo     bajo    dos     dos   grande   bajo inaceptable
+    bajo     bajo    dos     dos   grande  medio inaceptable
+    bajo     bajo    dos     dos   grande   alto inaceptable
+    bajo     bajo    dos  cuatro  pequeño   bajo inaceptable
+    bajo     bajo    dos  cuatro  pequeño  medio   aceptable
+    bajo     bajo    dos  cuatro  pequeño   alto       bueno
+    bajo     bajo    dos  cuatro    medio   bajo inaceptable
+    bajo     bajo    dos  cuatro    medio  medio   aceptable
+    bajo     bajo    dos  cuatro    medio   alto       bueno
+    bajo     bajo    dos  cuatro   grande   bajo inaceptable
+    bajo     bajo    dos  cuatro   grande  medio       bueno
+    bajo     bajo    dos  cuatro   grande   alto   muy bueno
+    bajo     bajo    dos     mas  pequeño   bajo inaceptable
+    bajo     bajo    dos     mas  pequeño  medio inaceptable
+    bajo     bajo    dos     mas  pequeño   alto inaceptable
+    bajo     bajo    dos     mas    medio   bajo inaceptable
+    bajo     bajo    dos     mas    medio  medio   aceptable
+    bajo     bajo    dos     mas    medio   alto       bueno
+    bajo     bajo    dos     mas   grande   bajo inaceptable
+    bajo     bajo    dos     mas   grande  medio       bueno
+    bajo     bajo    dos     mas   grande   alto   muy bueno
+    bajo     bajo   tres     dos  pequeño   bajo inaceptable
+    bajo     bajo   tres     dos  pequeño  medio inaceptable
+    bajo     bajo   tres     dos  pequeño   alto inaceptable
+    bajo     bajo   tres     dos    medio   bajo inaceptable
+    bajo     bajo   tres     dos    medio  medio inaceptable
+    bajo     bajo   tres     dos    medio   alto inaceptable
+    bajo     bajo   tres     dos   grande   bajo inaceptable
+    bajo     bajo   tres     dos   grande  medio inaceptable
+    bajo     bajo   tres     dos   grande   alto inaceptable
+    bajo     bajo   tres  cuatro  pequeño   bajo inaceptable
+    bajo     bajo   tres  cuatro  pequeño  medio   aceptable
+    bajo     bajo   tres  cuatro  pequeño   alto       bueno
+    bajo     bajo   tres  cuatro    medio   bajo inaceptable
+    bajo     bajo   tres  cuatro    medio  medio   aceptable
+    bajo     bajo   tres  cuatro    medio   alto       bueno
+    bajo     bajo   tres  cuatro   grande   bajo inaceptable
+    bajo     bajo   tres  cuatro   grande  medio       bueno
+    bajo     bajo   tres  cuatro   grande   alto   muy bueno
+    bajo     bajo   tres     mas  pequeño   bajo inaceptable
+    bajo     bajo   tres     mas  pequeño  medio   aceptable
+    bajo     bajo   tres     mas  pequeño   alto       bueno
+    bajo     bajo   tres     mas    medio   bajo inaceptable
+    bajo     bajo   tres     mas    medio  medio       bueno
+    bajo     bajo   tres     mas    medio   alto   muy bueno
+    bajo     bajo   tres     mas   grande   bajo inaceptable
+    bajo     bajo   tres     mas   grande  medio       bueno
+    bajo     bajo   tres     mas   grande   alto   muy bueno
+    bajo     bajo cuatro     dos  pequeño   bajo inaceptable
+    bajo     bajo cuatro     dos  pequeño  medio inaceptable
+    bajo     bajo cuatro     dos  pequeño   alto inaceptable
+    bajo     bajo cuatro     dos    medio   bajo inaceptable
+    bajo     bajo cuatro     dos    medio  medio inaceptable
+    bajo     bajo cuatro     dos    medio   alto inaceptable
+    bajo     bajo cuatro     dos   grande   bajo inaceptable
+    bajo     bajo cuatro     dos   grande  medio inaceptable
+    bajo     bajo cuatro     dos   grande   alto inaceptable
+    bajo     bajo cuatro  cuatro  pequeño   bajo inaceptable
+    bajo     bajo cuatro  cuatro  pequeño  medio   aceptable
+    bajo     bajo cuatro  cuatro  pequeño   alto       bueno
+    bajo     bajo cuatro  cuatro    medio   bajo inaceptable
+    bajo     bajo cuatro  cuatro    medio  medio       bueno
+    bajo     bajo cuatro  cuatro    medio   alto   muy bueno
+    bajo     bajo cuatro  cuatro   grande   bajo inaceptable
+    bajo     bajo cuatro  cuatro   grande  medio       bueno
+    bajo     bajo cuatro  cuatro   grande   alto   muy bueno
+    bajo     bajo cuatro     mas  pequeño   bajo inaceptable
+    bajo     bajo cuatro     mas  pequeño  medio   aceptable
+    bajo     bajo cuatro     mas  pequeño   alto       bueno
+    bajo     bajo cuatro     mas    medio   bajo inaceptable
+    bajo     bajo cuatro     mas    medio  medio       bueno
+    bajo     bajo cuatro     mas    medio   alto   muy bueno
+    bajo     bajo cuatro     mas   grande   bajo inaceptable
+    bajo     bajo cuatro     mas   grande  medio       bueno
+    bajo     bajo cuatro     mas   grande   alto   muy bueno
+    bajo     bajo    mas     dos  pequeño   bajo inaceptable
+    bajo     bajo    mas     dos  pequeño  medio inaceptable
+    bajo     bajo    mas     dos  pequeño   alto inaceptable
+    bajo     bajo    mas     dos    medio   bajo inaceptable
+    bajo     bajo    mas     dos    medio  medio inaceptable
+    bajo     bajo    mas     dos    medio   alto inaceptable
+    bajo     bajo    mas     dos   grande   bajo inaceptable
+    bajo     bajo    mas     dos   grande  medio inaceptable
+    bajo     bajo    mas     dos   grande   alto inaceptable
+    bajo     bajo    mas  cuatro  pequeño   bajo inaceptable
+    bajo     bajo    mas  cuatro  pequeño  medio   aceptable
+    bajo     bajo    mas  cuatro  pequeño   alto       bueno
+    bajo     bajo    mas  cuatro    medio   bajo inaceptable
+    bajo     bajo    mas  cuatro    medio  medio       bueno
+    bajo     bajo    mas  cuatro    medio   alto   muy bueno
+    bajo     bajo    mas  cuatro   grande   bajo inaceptable
+    bajo     bajo    mas  cuatro   grande  medio       bueno
+    bajo     bajo    mas  cuatro   grande   alto   muy bueno
+    bajo     bajo    mas     mas  pequeño   bajo inaceptable
+    bajo     bajo    mas     mas  pequeño  medio   aceptable
+    bajo     bajo    mas     mas  pequeño   alto       bueno
+    bajo     bajo    mas     mas    medio   bajo inaceptable
+    bajo     bajo    mas     mas    medio  medio       bueno
+    bajo     bajo    mas     mas    medio   alto   muy bueno
+    bajo     bajo    mas     mas   grande   bajo inaceptable
+    bajo     bajo    mas     mas   grande  medio       bueno
+    bajo     bajo    mas     mas   grande   alto   muy bueno
